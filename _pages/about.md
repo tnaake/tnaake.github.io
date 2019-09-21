@@ -4,6 +4,7 @@ title: "About the author"
 modified: 2019-09-19
 comments: false
 author_profile: true
+layout: default
 header:
    #overlay_image: /images/slide-code2.png
    #overlay_filter: 0.3
@@ -82,35 +83,37 @@ the [MetCirc](http://www.github.com/tnaake/MetCirc) and
 the author of the first version
 [pRolocGUI](https://github.com/ComputationalProteomicsUnit/pRolocGUI)
 package that was created during an ERASMUS placement at the 
-Computational Proteomics Unit at the University of Cambridge. 
+Computational Proteomics Unit headed 
+by [Laurent Gatto](http://lgatto.github.io) (now at UCLouvain) at the 
+University of Cambridge. 
 
 
-## Talks 
+## Recent talks 
 
 Naake T. MetCirc: Navigating mass spectral similarity in high-resolution MS/MS metabolomics
-data - Recent updates (presentation). 25/07/2019, Brixen, CSAMA: Statistical Data Analysis
+data - Recent updates. 25/07/2019, Brixen, CSAMA: Statistical Data Analysis
 for Genome-Scale Biology.
 
 Naake T., Tohge T., Fernie A.R. Plant kingdom-wide analysis to study the evolution of the
-type III polyketide synthase superfamily (presentation on invitation). 24/06/2019, Pamplona,
+type III polyketide synthase superfamily. 24/06/2019, Pamplona,
 1st PhD meeting in Plant Science.
 
 Naake T. MetNet: Metabolite Network Prediction from High-Resolution Mass Spectrometry
-Data in R Aiding Metabolite Annotation (presentation). 02/04/2019, Wittenberg, de.NBI
+Data in R Aiding Metabolite Annotation. 02/04/2019, Wittenberg, de.NBI
 CompMS metaRbolomics.
 
 
 ## Posters 
 
 Naake T., Tohge T., Fernie A.R. Plant kingdom-wide analysis to study the evolution of
-the polyketide synthase superfamily (poster). 16–23/09/2018, Greifswald, Greifolution: 1 st
+the polyketide synthase superfamily. 16–23/09/2018, Greifswald, Greifolution: 1 st
 Greifswald Summer school on Mathematics of Evolution.
 
 Naake T., Tohge T., Fernie A.R. Exploring the natural variation of specialized seed metabolites
-of Arabidopsis thaliana to detect biosynthetic and regulatory genes using GWAS (poster).
+of Arabidopsis thaliana to detect biosynthetic and regulatory genes using GWAS.
 18–21/06/2018, Copenhagen, Plant Biology Europe 2018.
 
 Gatto L., Breckels L.M., Naake T., Wieczorek S., Burger T., Lilley K.S. A state-of-the-art
-machine learning pipeline for the analysis of spatial proteomics data (poster). 05–08/10/2014,
+machine learning pipeline for the analysis of spatial proteomics data. 05–08/10/2014,
 Madrid, HUPO meeting.
 
