@@ -4,14 +4,13 @@ title: "About the author"
 modified: 2019-09-19
 comments: false
 author_profile: true
-layout: default
 header:
    #overlay_image: /images/slide-code2.png
    #overlay_filter: 0.3
 ---
 
 {% include toc %}
-{% include sidebar %}
+
 
 ## CV
 
