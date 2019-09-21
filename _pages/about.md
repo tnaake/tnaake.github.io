@@ -76,12 +76,12 @@ accepted
 
 ## Software
 
-I have developed open-source software 
-R/[Bioconductor](http://www.bioconductor.org) packages. Check 
-[my GitHub page](http://www.github.com/tnaake) and in particular
+I have developed open-source 
+R/[Bioconductor](http://www.bioconductor.org) software packages. Check my
+[GitHub page](http://www.github.com/tnaake) and in particular
 the [MetCirc](http://www.github.com/tnaake/MetCirc) and 
-[MetNet](http://www.github.com/tnaake/MetNet) repositories. I am also 
-the author of the first version
+[MetNet](http://www.github.com/tnaake/MetNet) repositories to learn more
+about the packages I developed. I am also the author of the first version
 [pRolocGUI](https://github.com/ComputationalProteomicsUnit/pRolocGUI)
 package that was created during an ERASMUS placement at the 
 Computational Proteomics Unit headed 
