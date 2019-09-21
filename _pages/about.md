@@ -11,6 +11,7 @@ header:
 ---
 
 {% include toc %}
+{% include sidebar %}
 
 ## CV
 
