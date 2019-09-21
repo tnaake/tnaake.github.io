@@ -44,7 +44,7 @@ Spectrometry Data in R Aiding Metabolite Annotation*. Analytical Chemistry 91, 2
 Gallage N., Jørgensen K., Janfelt, C., Nielsen A., Naake, T., Dalsten L., Grisoni, M., Møller
 B.L. *The vanillin biosynthetic machinery in the pods of Vanilla planifolia is localized in
 chloroplasts and phenyloplasts*. Plant Cell Physiology 59, 2018; 
-[https://doi.org/10.1093/pcp/pcx185]([https://doi.org/10.1093/pcp/pcx185).
+[https://doi.org/10.1093/pcp/pcx185](https://doi.org/10.1093/pcp/pcx185).
 
 Perez de Souza L., Naake T., Tohge T., Fernie A.R. *From chromatogram to analyte to
 metabolite. How to pick horses for courses from the massive web resources for mass spectral
