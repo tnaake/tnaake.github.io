@@ -117,17 +117,19 @@ header:
 
 I added furthermore the following lines of codes to the same document: 
 
-{% highlight %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
-{% endhighlight %}
+
+<pre class="prettyprint pre-scrollable"><code>---
+&lbrace; % capture written_year % &rbrace; 'None' &lbrace; % endcapture % &rbrace;
+&lbrace;% for post in site.posts %&rbrace;
+  &lbrace;% capture year % &rbrace;&lbrace;&lbrace; post.date | date: '%Y' &rbrace;&rbrace;&lbrace;% endcapture %&rbrace;
+  &lbrace;% if year != written_year %&rbrace;
+    &lt;h2 id="&lbrace;&lbrace; year | slugify &rbrace;&rbrace;" class="archive__subtitle"&gt;&lbrace;&lbrace; year &rbrace;&rbrace;&lt;/h2&gt;
+    &lbrace;% capture written_year % &rbrace;&lbrace;&lbrace; year &rbrace;&rbrace;&lbrace; % endcapture % &rbrace;
+  &lbrace;% endif % &rbrace;
+  &lbrace;% include archive-single.html %&rbrace;
+&lbrace; % endfor % &rbrace;
+</code></pre>
+
 
 
 
