@@ -54,8 +54,8 @@ Open the `_config.yml` file in your favourite editor and edit the the following 
 * I created a directory `images/` and copied a picture there. In the author 
 section under avatar, I included the relative path of the picture. This will 
 add the picture to the sidebar.
-* 'bio: enter here a descriptive bio enclosed by ""
-* set location
+* `bio`: enter here a descriptive bio enclosed by ""
+* set `location`
 * enter username for some social media accounts (e.g. GitHub, Twitter) under 
 Site Author and Site Footer
 
@@ -80,18 +80,18 @@ will host more contents of the site. I added a `about.md` file in the `_pages`
 with the header 
 
 ```
-	---
-	permalink: /about/
-	title: "About the author"
-	modified: 2019-09-19
-	comments: false
-	author_profile: true
-	header:
-	   #overlay_image: /images/slide-code2.png
-	   #overlay_filter: 0.3
-	---
+---
+permalink: /about/
+title: "About the author"
+modified: 2019-09-19
+comments: false
+author_profile: true
+header:
+   #overlay_image: /images/slide-code2.png
+   #overlay_filter: 0.3
+---
 
-	{% include toc %}
+{% include toc %}
 ```
 and included to this file information on CV, Research, Publications, Software, 
 Talks and Posters. 
@@ -102,28 +102,27 @@ I added a `posts.html` file in the `_pages` directory with the following
 contents
 
 ```
-	---
-	layout: archive
-	permalink: /posts/
-	title: "Posts"
-	modified: 2019-09-19
-	comments: false
-	author_profile: true
-	header:
-	  #overlay_image: /images/slide-code2.png
-   	  #overlay_filter: 0.3
-	---
+---
+layout: archive
+permalink: /posts/
+title: "Posts"
+modified: 2019-09-19
+comments: false
+author_profile: true
+header:
+  #overlay_image: /images/slide-code2.png
+  #overlay_filter: 0.3
+---
 
-	{% capture written_year %}'None'{% endcapture %}
-	{% for post in site.posts %}
-	  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-	  {% if year != written_year %}
-	    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-      	{% capture written_year %}{{ year }}{% endcapture %}
-	  {% endif %}
-	  {% include archive-single.html %}	
-	{% endfor %}
-
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+{% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}	
+{% endfor %}
 ```
 
 
@@ -136,14 +135,14 @@ To set up the navigation bar, I put the following contents in `navigation.yml`
 that is located in the `_data` directory: 
 
 ```markdown
-	# main links
-	main:
-	  - title: "About"
-	    url: /about/
-	  - title: "Posts"
-	    url: /posts/
-  	  - title: "Tags"
-	    url: /tags/
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Posts"
+    url: /posts/
+  - title: "Tags"
+    url: /tags/
 ```
 
 # Build locally a version of the site
