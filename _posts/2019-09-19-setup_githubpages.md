@@ -90,10 +90,17 @@ header:
    #overlay_image: /images/slide-code2.png
    #overlay_filter: 0.3
 ---
-
-&lbrace;% include toc %&rbrace;
 ```
-and included to this file information on CV, Research, Publications, Software, 
+
+directly followed by 
+<pre class="prettyprint pre-scrollable"><code>
+&lbrace;% include toc %&rbrace;
+</code></pre>
+
+
+to include a table of contents for navigation. 
+
+Subsequently, I added to this file information on CV, Research, Publications, Software, 
 Talks and Posters. 
 
 
@@ -116,8 +123,6 @@ header:
 ```
 
 I added furthermore the following lines of code to the same document:
-
-
 <pre class="prettyprint pre-scrollable"><code>
 &lbrace;% capture written_year %&rbrace;'None'&lbrace;% endcapture %&rbrace;
 &lbrace;% for post in site.posts %&rbrace;
