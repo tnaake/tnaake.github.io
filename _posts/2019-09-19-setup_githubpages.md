@@ -7,12 +7,20 @@ header:
 excerpt: "How I setup my GitHub Pages site"
 ---
 
+Today I set up for the first time my GitHub pages site. As a documentation I 
+will describe here how I set up this website. 
+
 # Start
 
-* go to [https://mmistakes.github.io/minimal-mistakes-jekyll](https://mmistakes.github.io/minimal-mistakes-jekyll)
-* fork the repository and rename it to 'tnaake.github.io' 
-* clone the repository
-* remove the files by entering after navigating to the cloned 
+* go to 
+[https://mmistakes.github.io/minimal-mistakes-jekyll](https://mmistakes.github.io/minimal-mistakes-jekyll)
+
+* clone the repository to my Projects/ folder 
+```sh
+	git clone https://github.com/mmistakes/minimal-mistakes.git
+```
+
+* remove unnecessary files by entering after navigating to the cloned directory
 ```sh 
 	rm .editorconfig
 	rm .gitattributes
@@ -25,24 +33,133 @@ excerpt: "How I setup my GitHub Pages site"
 	rm -drf test/
 ```
 
+* rename the directory to tnaake.github.io 
+
+* create a new new repository with the name 'tnaake.github.io' on GitHub
+
+* push the existing repository from the command line to GitHub
+```sh
+	git remote add origin https://github.com/tnaake/tnaake.github.io.git
+	git push -u origin master
+
+```
+
+
 After this you can push the changes to GitHub. 
 
 # Configuration
 
-Open the '_config.yml' file in your favourite editor and edit the the following entries 
-1. 'locale: "en-GB"'
-2. 'title: "~/"'
-3. 'name: "Thomas Naake"'
-4. 'description: "Thomas Naake's GitHub pages site"'
-5. 'bio: "Plants, evolution, specialized metabolism, metabolomics, transciptomics, other omics, computational biology, reproducible research, open science"
+### _config.yml 
+The first thing I did was editing the `_config.yml` file. This file is one of the 
+most important files to configure the contents of the site. 
+
+Open the `_config.yml` file in your favourite editor and edit the the following entries: 
+* 'locale: "en-GB"' 
+* 'title: "~/"', the title will be the name of the starting page
+* 'name: "Thomas Naake"'
+* 'description: "Thomas Naake's GitHub pages site"'
+* I created a directory `images/` and copied a picture there. In the author 
+section under avatar, I included the relative path of the picture. This will 
+add the picture to the sidebar.
+* 'bio: enter here a descriptive bio enclosed by ""
+* set location
+* enter username for some social media accounts (e.g. GitHub, Twitter) under 
+Site Author and Site Footer
+
+In the default section, there is an entry for _posts. I also put some settings 
+for _pages (e.g. for the `About` page. 
+I entered the following to the `Defaults` section
+
+```markdown
+  # _pages
+  - scope: 
+      path: ""
+      type: pages
+    values: 
+      layout: single
+      author_profile: true
+      comments: false
+```
+
+### pages
+Next, I created a `_pages` directory in `tnaake.github.io` directory that 
+will host more contents of the site. I added a `about.md` file in the `_pages` 
+with the header 
+
+```markdown
+	---
+	permalink: /about/
+	title: "About the author"
+	modified: 2019-09-19
+	comments: false
+	author_profile: true
+	header:
+	   #overlay_image: /images/slide-code2.png
+	   #overlay_filter: 0.3
+	---
+
+	{% include toc %}
+```
+and included to this file information on CV, Research, Publications, Software, 
+Talks and Posters. 
 
 
-## Build locally
+### posts 
+I added a `posts.html` file in the `_pages` directory with the following 
+contents
 
-1. install ruby2.5-dev
-2. 
-3. 
-sudo bundle install
-bundle install
-bundle exec jekyll serve
+```markdown
+	---
+	layout: archive
+	permalink: /posts/
+	title: "Posts"
+	modified: 2019-09-19
+	comments: false
+	author_profile: true
+	header:
+	  #overlay_image: /images/slide-code2.png
+   	  #overlay_filter: 0.3
+	---
+
+	{% capture written_year %}'None'{% endcapture %}
+	{% for post in site.posts %}
+	  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+	  {% if year != written_year %}
+	    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+      	{% capture written_year %}{{ year }}{% endcapture %}
+	  {% endif %}
+	  {% include archive-single.html %}	
+	{% endfor %}
+
+```
+
+
+To create the first post (this post), I created a directory `_posts` in 
+`tnaake.github.io`. Within `_posts` I deployed the first post in markdown
+language. Make sure to name the file in the `yyyy-mm--dd` format.
+
+### navigation.yml
+To set up the navigation bar, I put the following contents in `navigation.yml` 
+that is located in the `_data` directory: 
+
+```markdown
+	# main links
+	main:
+	  - title: "About"
+	    url: /about/
+	  - title: "Posts"
+	    url: /posts/
+  	  - title: "Tags"
+	    url: /tags/
+```
+
+## Build locally a version of the site
+
+To do some testing, before pushing to GitHub, it is recommended to build and 
+test locally the site. 
+
+1. `install ruby2.5-dev`{:.sh} 
+2. `sudo bundle install`{:.sh} 
+3. `bundle install`{:.sh} 
+4. `bundle exec jekyll serve`{:.sh} 
 
