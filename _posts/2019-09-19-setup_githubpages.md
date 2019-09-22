@@ -90,8 +90,8 @@ header:
    #overlay_image: /images/slide-code2.png
    #overlay_filter: 0.3
 ---
-
-{% include toc %}
+```
+&lbrace;% include toc %&rbrace;
 ```
 and included to this file information on CV, Research, Publications, Software, 
 Talks and Posters. 
@@ -115,19 +115,19 @@ header:
 ---
 ```
 
-I added furthermore the following lines of codes to the same document: 
+I added furthermore the following lines of code to the same document:
 
 
-<pre class="prettyprint pre-scrollable"><code>---
-&lbrace; % capture written_year % &rbrace; 'None' &lbrace; % endcapture % &rbrace;
+<pre class="prettyprint pre-scrollable"><code>
+&lbrace;% capture written_year %&rbrace;'None'&lbrace;% endcapture %&rbrace;
 &lbrace;% for post in site.posts %&rbrace;
   &lbrace;% capture year % &rbrace;&lbrace;&lbrace; post.date | date: '%Y' &rbrace;&rbrace;&lbrace;% endcapture %&rbrace;
   &lbrace;% if year != written_year %&rbrace;
     &lt;h2 id="&lbrace;&lbrace; year | slugify &rbrace;&rbrace;" class="archive__subtitle"&gt;&lbrace;&lbrace; year &rbrace;&rbrace;&lt;/h2&gt;
-    &lbrace;% capture written_year % &rbrace;&lbrace;&lbrace; year &rbrace;&rbrace;&lbrace; % endcapture % &rbrace;
-  &lbrace;% endif % &rbrace;
+    &lbrace;% capture written_year %&rbrace;&lbrace;&lbrace; year &rbrace;&rbrace;&lbrace;% endcapture %&rbrace;
+  &lbrace;% endif %&rbrace;
   &lbrace;% include archive-single.html %&rbrace;
-&lbrace; % endfor % &rbrace;
+&lbrace;% endfor %&rbrace;
 </code></pre>
 
 
