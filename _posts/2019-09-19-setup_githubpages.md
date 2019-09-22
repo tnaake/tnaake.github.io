@@ -14,12 +14,10 @@ will describe here how I set up this website.
 
 * go to 
 [https://mmistakes.github.io/minimal-mistakes-jekyll](https://mmistakes.github.io/minimal-mistakes-jekyll)
-
 * clone the repository to my Projects/ folder 
 ```sh
 	git clone https://github.com/mmistakes/minimal-mistakes.git
 ```
-
 * remove unnecessary files by entering after navigating to the cloned directory
 ```sh 
 	rm .editorconfig
@@ -32,18 +30,13 @@ will describe here how I set up this website.
 	rm -drf docs/
 	rm -drf test/
 ```
-
 * rename the directory to tnaake.github.io 
-
 * create a new new repository with the name 'tnaake.github.io' on GitHub
-
 * push the existing repository from the command line to GitHub
 ```sh
 	git remote add origin https://github.com/tnaake/tnaake.github.io.git
 	git push -u origin master
-
 ```
-
 
 After this you can push the changes to GitHub. 
 
@@ -86,7 +79,7 @@ Next, I created a `_pages` directory in `tnaake.github.io` directory that
 will host more contents of the site. I added a `about.md` file in the `_pages` 
 with the header 
 
-```markdown
+```
 	---
 	permalink: /about/
 	title: "About the author"
@@ -108,7 +101,7 @@ Talks and Posters.
 I added a `posts.html` file in the `_pages` directory with the following 
 contents
 
-```markdown
+```
 	---
 	layout: archive
 	permalink: /posts/
