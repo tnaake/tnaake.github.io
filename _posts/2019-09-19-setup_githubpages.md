@@ -14,7 +14,7 @@ will describe here how I set up this website.
 
 * go to 
 [https://mmistakes.github.io/minimal-mistakes-jekyll](https://mmistakes.github.io/minimal-mistakes-jekyll)
-* clone the repository to my Projects/ folder 
+* clone the repository to my `Projects/` folder 
 ```sh
 	git clone https://github.com/mmistakes/minimal-mistakes.git
 ```
@@ -30,8 +30,8 @@ will describe here how I set up this website.
 	rm -drf docs/
 	rm -drf test/
 ```
-* rename the directory to tnaake.github.io 
-* create a new new repository with the name 'tnaake.github.io' on GitHub
+* rename the directory to `tnaake.github.io`
+* create a new new repository with the name `tnaake.github.io` on GitHub
 * push the existing repository from the command line to GitHub
 ```sh
 	git remote add origin https://github.com/tnaake/tnaake.github.io.git
@@ -42,15 +42,15 @@ After this you can push the changes to GitHub.
 
 # Configuration
 
-### _config.yml 
+## _config.yml 
 The first thing I did was editing the `_config.yml` file. This file is one of the 
 most important files to configure the contents of the site. 
 
 Open the `_config.yml` file in your favourite editor and edit the the following entries: 
-* 'locale: "en-GB"' 
-* 'title: "~/"', the title will be the name of the starting page
-* 'name: "Thomas Naake"'
-* 'description: "Thomas Naake's GitHub pages site"'
+* `locale: "en-GB"` 
+* `title: "~/"`, the title will be the name of the starting page
+* `name: "Thomas Naake"`
+* `description: "Thomas Naake's GitHub pages site"`
 * I created a directory `images/` and copied a picture there. In the author 
 section under avatar, I included the relative path of the picture. This will 
 add the picture to the sidebar.
@@ -74,7 +74,7 @@ I entered the following to the `Defaults` section
       comments: false
 ```
 
-### pages
+## pages
 Next, I created a `_pages` directory in `tnaake.github.io` directory that 
 will host more contents of the site. I added a `about.md` file in the `_pages` 
 with the header 
@@ -97,7 +97,7 @@ and included to this file information on CV, Research, Publications, Software,
 Talks and Posters. 
 
 
-### posts 
+## posts 
 I added a `posts.html` file in the `_pages` directory with the following 
 contents
 
@@ -131,7 +131,7 @@ To create the first post (this post), I created a directory `_posts` in
 `tnaake.github.io`. Within `_posts` I deployed the first post in markdown
 language. Make sure to name the file in the `yyyy-mm--dd` format.
 
-### navigation.yml
+## navigation.yml
 To set up the navigation bar, I put the following contents in `navigation.yml` 
 that is located in the `_data` directory: 
 
@@ -146,7 +146,7 @@ that is located in the `_data` directory:
 	    url: /tags/
 ```
 
-## Build locally a version of the site
+# Build locally a version of the site
 
 To do some testing, before pushing to GitHub, it is recommended to build and 
 test locally the site. 
