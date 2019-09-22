@@ -15,7 +15,6 @@ layout: default
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
     {% include head.html %}
-    {% include sidebar.html %}
     {% include head/custom.html %}
   </head>
 
@@ -24,9 +23,9 @@ layout: default
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
 
-    <!-- <div class="initial-content"> -->
+    <div class="initial-content"> 
       {{ content }}
-    <!-- </div> -->
+    </div> 
 
     {% if site.search == true %}
       <div class="search-content">
