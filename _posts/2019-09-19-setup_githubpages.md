@@ -90,7 +90,7 @@ header:
    #overlay_image: /images/slide-code2.png
    #overlay_filter: 0.3
 ---
-```
+
 &lbrace;% include toc %&rbrace;
 ```
 and included to this file information on CV, Research, Publications, Software, 
