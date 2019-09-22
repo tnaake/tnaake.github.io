@@ -113,7 +113,10 @@ header:
   #overlay_image: /images/slide-code2.png
   #overlay_filter: 0.3
 ---
+```
 
+I added furthermore the following lines of codes to the same document
+```
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
