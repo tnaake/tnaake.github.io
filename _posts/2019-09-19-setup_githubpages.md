@@ -117,7 +117,7 @@ header:
 
 I added furthermore the following lines of codes to the same document
 
-<code>
+<verbatim>
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -127,7 +127,7 @@ I added furthermore the following lines of codes to the same document
   {% endif %}
   {% include archive-single.html %}	
 {% endfor %}
-</code>
+</verbatim>
 
 
 To create the first post (this post), I created a directory `_posts` in 
