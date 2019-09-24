@@ -20,10 +20,10 @@ gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "jekyll-feed"
 gem "jekyll-include-cache"
+gem "html-proofer"
 
-
-group :test do 
-  gem "html-proofer"
+##group :test do 
+  
 end
 #gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"
 
