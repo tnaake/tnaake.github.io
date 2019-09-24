@@ -1,9 +1,9 @@
 language: ruby
 cache: bundler
-#gemfile: ./Gemfile
+gemfile: ./Gemfile
 
 script:
-  - jekyll build && htmlproofer --check-html --only-4xx  --http-status-ignore "403" ./_site 
+  - bundle exec jekyll build && htmlproofer --check-html --only-4xx  --http-status-ignore "403" ./_site 
 ## - bundle exec jekyll algolia --source ./ --destination ./_site --config ./_config.yml
 
 env: 
@@ -14,5 +14,6 @@ branches:
   only:
     # Change this to gh-pages if you're deploying using the gh-pages branch
     - master
+
 rvm:
  - 2.4
