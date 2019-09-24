@@ -23,8 +23,6 @@ gem "jekyll-include-cache"
 gem "html-proofer"
 
 ##group :test do 
-  
-end
 #gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"
 
 # If you have any other plugins, put them here!
