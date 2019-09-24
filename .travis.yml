@@ -4,7 +4,7 @@ gemfile: ./Gemfile
 
 script:
   - bundle exec jekyll build 
-## && htmlproofer --check-html --only-4xx  --http-status-ignore "403" ./_site 
+  - htmlproof --check-html --only-4xx --http-status-ignore "403" ./_site 
 ## - bundle exec jekyll algolia --source ./ --destination ./_site --config ./_config.yml
 
 env: 
