@@ -1,4 +1,4 @@
-#source "https://rubygems.org"
+source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -13,7 +13,10 @@
 
 # To upgrade, run `bundle update`.
 
-#gem "jekyll", "~> 3.5" 
+gem "jekyll"#, "~> 3.5" 
+group :test do 
+  gem "html-proofer"
+end
 #gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"
 
 # The following plugins are automatically loaded by the theme-gem:
@@ -25,6 +28,3 @@
 #
 # If you have any other plugins, put them here!
 
-#group :jekyll_plugins do
-#end
-#gemspec
