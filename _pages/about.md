@@ -32,46 +32,56 @@ research projects focus on plant metabolomics and transcriptomics.
 
 ### Research articles
 
-Stanstrup J., Broeckling C.D., Helmus R., Hofmann N., Mathe E., Naake T., Nicolotti L.,
-Peters K., Rainer J., Salek R.M., Schulze T., Schymanski E.L., Stravs M.A., Thevenot E.,
-Treutler H., Weber R.J.M., Willighagen E., Witting M., Neumann S. *The metaRbolomics
-toolbox in Bioconductor and beyond*. accepted
+Stanstrup J., Broeckling C.D., Helmus R., Hofmann N., Mathe E., Naake T., 
+Nicolotti L., Peters K., Rainer J., Salek R.M., Schulze T., Schymanski E.L., 
+Stravs M.A., Thevenot E., Treutler H., Weber R.J.M., Willighagen E., 
+Witting M., Neumann S. *The metaRbolomics toolbox in Bioconductor and beyond*. 
+Metabolites 9, 2019; 
+[https://doi.org/10.3390/metabo9100200](https://doi.org/10.3390/metabo9100200)
 
-Naake T., Fernie A.R. *MetNet: Metabolite Network Prediction from High-Resolution Mass
-Spectrometry Data in R Aiding Metabolite Annotation*. Analytical Chemistry 91, 2019; 
+Naake T., Fernie A.R. *MetNet: Metabolite Network Prediction from 
+High-Resolution Mass Spectrometry Data in R Aiding Metabolite Annotation*. 
+Analytical Chemistry 91, 2019; 
 [https://doi.org/10.1021/acs.analchem.8b04096](https://doi.org/10.1021/acs.analchem.8b04096).
 
-Gallage N., Jørgensen K., Janfelt, C., Nielsen A., Naake, T., Dalsten L., Grisoni, M., Møller
-B.L. *The vanillin biosynthetic machinery in the pods of Vanilla planifolia is localized in
-chloroplasts and phenyloplasts*. Plant Cell Physiology 59, 2018; 
+Gallage N., Jørgensen K., Janfelt, C., Nielsen A., Naake, T., Dalsten L., 
+Grisoni, M., Møller B.L. *The vanillin biosynthetic machinery in the pods of 
+Vanilla planifolia is localized in chloroplasts and phenyloplasts*. Plant Cell Physiology 59, 2018; 
 [https://doi.org/10.1093/pcp/pcx185](https://doi.org/10.1093/pcp/pcx185).
 
-Perez de Souza L., Naake T., Tohge T., Fernie A.R. *From chromatogram to analyte to
-metabolite. How to pick horses for courses from the massive web resources for mass spectral
-plant metabolomics*. Gigascience 6, 2017; 
+Perez de Souza L., Naake T., Tohge T., Fernie A.R. *From chromatogram to 
+analyte to metabolite. How to pick horses for courses from the massive 
+web resources for mass spectral plant metabolomics*. Gigascience 6, 2017; 
 [https://doi.org/10.1093/gigascience/gix037](https://doi.org/10.1093/gigascience/gix037).
 
-Naake T., Gaquerel E. *MetCirc: Navigating mass spectral similarity in high-resolution
-MS/MS metabolomics data*. Bioinformatics 33, 2017; 
+Naake T., Gaquerel E. *MetCirc: Navigating mass spectral similarity in 
+high-resolution MS/MS metabolomics data*. Bioinformatics 33, 2017; 
 [https://doi.org/10.1093/bioinformatics/btx159](https://doi.org/10.1093/bioinformatics/btx159).
 
-Christoforou A., Mulvey C.M., Breckels L.M., Geladaki A., Hurrell T., Hayward P.C., Naake
-T., Gatto L., Viner R., Arias A.M., Lilley K.S. *A draft map of the mouse pluripotent stem
-cell spatial proteome*. Nature Communications 7, 2016; 
+Christoforou A., Mulvey C.M., Breckels L.M., Geladaki A., Hurrell T., 
+Hayward P.C., Naake T., Gatto L., Viner R., Arias A.M., Lilley K.S. 
+*A draft map of the mouse pluripotent stem cell spatial proteome*. 
+Nature Communications 7, 2016; 
 [https://doi.org/10.1038/ncomms9992](https://doi.org/10.1038/ncomms9992).
 
-Gatto L., Breckels L.M., Naake T., Gibb S. *Visualisation of proteomics data using R and
-Bioconductor*. PROTEOMICS 15, 2015;
+Gatto L., Breckels L.M., Naake T., Gibb S. *Visualisation of proteomics data 
+using R and Bioconductor*. PROTEOMICS 15, 2015;
 [https://doi.org/10.1002/pmic.201400392](https://doi.org/10.1002/pmic.201400392).
 
 
 
-### Book chapters 
+### Books/book chapters 
 
-Naake T., Gaquerel E., Fernie A.R. Annotation of specialized metabolites from high-
-throughput and high-resolution mass spectrometry metabolomics. Computational methods
-and Data Analysis for Metabolomics, Methods in Molecular Biology, Springer Protocols
-accepted
+Stanstrup J., Broeckling C.D., Helmus R., Hoffmann N., Mathe E., Naake T., 
+Nicolotti L., Peters K., Rainer J., Salek R.M., Schulze T., Schymanski E.L., 
+Stravs M.A., Thevenot E.A., Treutler H., Weber R.J.M., Willighagen E., 
+Witting M., Neumann S. *The MetaRbolomics book*. Available at
+[https://rformassspectrometry.github.io/metaRbolomics-book/](https://rformassspectrometry.github.io/metaRbolomics-book/)
+
+Naake T., Gaquerel E., Fernie A.R. *Annotation of specialized metabolites from 
+high-throughput and high-resolution mass spectrometry metabolomics*. 
+Computational methods and Data Analysis for Metabolomics, Methods in Molecular 
+Biology, Springer Protocols, accepted
 
 ## Software
 
