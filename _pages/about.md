@@ -44,8 +44,8 @@ High-Resolution Mass Spectrometry Data in R Aiding Metabolite Annotation*.
 Analytical Chemistry 91, 2019; 
 [https://doi.org/10.1021/acs.analchem.8b04096](https://doi.org/10.1021/acs.analchem.8b04096).
 
-Gallage N., Jørgensen K., Janfelt, C., Nielsen A., Naake, T., Dalsten L., 
-Grisoni, M., Møller B.L. *The vanillin biosynthetic machinery in the pods of 
+Gallage N., Jørgensen K., Janfelt C., Nielsen A., Naake, T., Dalsten L., 
+Grisoni M., Møller B.L. *The vanillin biosynthetic machinery in the pods of 
 Vanilla planifolia is localized in chloroplasts and phenyloplasts*. Plant Cell Physiology 59, 2018; 
 [https://doi.org/10.1093/pcp/pcx185](https://doi.org/10.1093/pcp/pcx185).
 
