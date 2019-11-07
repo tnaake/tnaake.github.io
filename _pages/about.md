@@ -34,7 +34,7 @@ research projects focus on plant metabolomics and transcriptomics.
 Perez de Souza L., Naake T., Alseekh S., Fernie A.R. 
 *Mass spectrometry based untargeted plant metabolomics*. *accepted* 
 
-![](images/big_cover-metabolites-v9_i10.png)
+![](/images/big_cover-metabolites-v9_i10.png)
 
 Stanstrup J., Broeckling C.D., Helmus R., Hofmann N., Mathe E., Naake T., 
 Nicolotti L., Peters K., Rainer J., Salek R.M., Schulze T., Schymanski E.L., 
