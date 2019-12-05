@@ -31,8 +31,9 @@ research projects focus on plant metabolomics and transcriptomics.
 > [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=naake+thomas).
 
 ### Research articles
-Perez de Souza L., Naake T., Alseekh S., Fernie A.R. 
-*Mass spectrometry based untargeted plant metabolomics*. *accepted* 
+Perez de Souza L., Alseekh S., Naake T., Fernie A.R. 
+*Mass spectrometry based untargeted plant metabolomics*. Current Protocols in Plant
+Biology 4, 2019; [https://doi.org/10.1002/cppb.20100](https://doi.org/10.1002/cppb.20100).
 
 ![Metabolites Volume 9, Issue 10](/images/cover_metabolites_v9_i10.jpg){:height="50%" width="50%"}
 
