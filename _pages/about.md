@@ -86,7 +86,7 @@ Witting M., Neumann S. *The MetaRbolomics book*. Available at
 Naake T., Gaquerel E., Fernie A.R. *Annotation of specialized metabolites from 
 high-throughput and high-resolution mass spectrometry metabolomics*. 
 Computational methods and Data Analysis for Metabolomics, Methods in Molecular 
-Biology, Springer Protocols, accepted
+Biology, Springer Protocols, *accepted*
 
 ## Software
 
@@ -102,6 +102,17 @@ Computational Proteomics Unit headed
 by [Laurent Gatto](http://lgatto.github.io) (now at UCLouvain) at the 
 University of Cambridge. 
 
+Naake T. 
+*MetNet: Inferring metabolic networks from untargeted high-resolution mass spectrometry data*. 
+2019; [https://doi.org/10.18129/B9.bioc.MetNet](https://doi.org/10.18129/B9.bioc.MetNet).
+
+Naake T., Gaquerel, E. 
+*MetCirc: Navigating mass spectral similarity in high-resolution MS/MS metabolomics data*. 
+2019; [https://doi.org/10.18129/B9.bioc.MetCirc](https://doi.org/10.18129/B9.bioc.MetCirc)
+
+Breckels L., Naake T., Gatto L. 
+*pRolocGUI: Interactive visualisation of spatial proteomics data*. 
+2019; [https://doi.org/10.18129/B9.bioc.pRolocGUI](https://doi.org/10.18129/B9.bioc.pRolocGUI)
 
 ## Recent talks 
 
@@ -121,7 +132,7 @@ CompMS metaRbolomics.
 ## Posters 
 
 Naake T., Tohge T., Fernie A.R. Plant kingdom-wide analysis to study the evolution of
-the polyketide synthase superfamily. 16–23/09/2018, Greifswald, Greifolution: 1 st
+the polyketide synthase superfamily. 16–23/09/2018, Greifswald, Greifolution: 1st
 Greifswald Summer school on Mathematics of Evolution.
 
 Naake T., Tohge T., Fernie A.R. Exploring the natural variation of specialized seed metabolites
