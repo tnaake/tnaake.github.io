@@ -33,7 +33,7 @@ research projects focus on plant metabolomics and transcriptomics.
 ### Research articles
 Toleco M.R., Naake T., Zhang Y., Heazlewood J.L., Fernie A.R.
 *Plant Mitochondrial Carriers: Molecular Gatekeepers that Help to Regulate Plant Central Carbon Metabolism*.
-submitted
+Plants, accepted
 
 Perez de Souza L., Alseekh S., Naake T., Fernie A.R. 
 *Mass spectrometry based untargeted plant metabolomics*. Current Protocols in Plant
