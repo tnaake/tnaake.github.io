@@ -32,8 +32,7 @@ research projects focus on plant metabolomics and transcriptomics.
 
 ### Research articles
 Toleco M.R., Naake T., Zhang Y., Heazlewood J.L., Fernie A.R.
-*Plant Mitochondrial Carriers: Molecular Gatekeepers that Help to Regulate Plant Central Carbon Metabolism*.
-Plants, accepted
+*Plant Mitochondrial Carriers: Molecular Gatekeepers that Help to Regulate Plant Central Carbon Metabolism*. Plants 9, 2020; [https://doi.org/10.3390/plants9010117](https://doi.org/10.3390/plants9010117).
 
 Perez de Souza L., Alseekh S., Naake T., Fernie A.R. 
 *Mass spectrometry based untargeted plant metabolomics*. Current Protocols in Plant
@@ -85,12 +84,13 @@ Stanstrup J., Broeckling C.D., Helmus R., Hoffmann N., Mathe E., Naake T.,
 Nicolotti L., Peters K., Rainer J., Salek R.M., Schulze T., Schymanski E.L., 
 Stravs M.A., Thevenot E.A., Treutler H., Weber R.J.M., Willighagen E., 
 Witting M., Neumann S. *The MetaRbolomics book*. Available at
-[https://rformassspectrometry.github.io/metaRbolomics-book/](https://rformassspectrometry.github.io/metaRbolomics-book/)
+[https://rformassspectrometry.github.io/metaRbolomics-book/](https://rformassspectrometry.github.io/metaRbolomics-book/).
 
 Naake T., Gaquerel E., Fernie A.R. *Annotation of specialized metabolites from 
 high-throughput and high-resolution mass spectrometry metabolomics*. 
-Computational methods and Data Analysis for Metabolomics, Methods in Molecular 
-Biology, Springer Protocols, *accepted*
+Springer Protocols, Methods in Molecular Biology, Computational methods and 
+Data Analysis for Metabolomics, Methods in Molecular Biology, 2020; 
+[https://doi.org/10.1007/978-1-0716-0239-3](https://doi.org/10.1007/978-1-0716-0239-3).
 
 ## Software
 
