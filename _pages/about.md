@@ -89,7 +89,7 @@ Witting M., Neumann S. *The MetaRbolomics book*. Available at
 Naake T., Gaquerel E., Fernie A.R. *Annotation of specialized metabolites from 
 high-throughput and high-resolution mass spectrometry metabolomics*. 
 Springer Protocols, Methods in Molecular Biology, Computational methods and 
-Data Analysis for Metabolomics, Methods in Molecular Biology, 2020; 
+Data Analysis for Metabolomics, 2020; 
 [https://doi.org/10.1007/978-1-0716-0239-3](https://doi.org/10.1007/978-1-0716-0239-3).
 
 ## Software
