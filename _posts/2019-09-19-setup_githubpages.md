@@ -5,7 +5,7 @@ tags: [website, github]
 header: 
   # image: "/images/"
 excerpt: "How I setup my GitHub Pages site"
-comments_id: 2
+comments_id: 1
 ---
 
 Today I set up for the first time my GitHub pages site. As a documentation I 
