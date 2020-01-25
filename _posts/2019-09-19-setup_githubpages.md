@@ -5,6 +5,7 @@ tags: [website, github]
 header: 
   # image: "/images/"
 excerpt: "How I setup my GitHub Pages site"
+comments_id: 2
 ---
 
 Today I set up for the first time my GitHub pages site. As a documentation I 
@@ -166,4 +167,15 @@ test locally the site.
 2. `sudo bundle install`{:.sh} 
 3. `bundle install`{:.sh} 
 4. `bundle exec jekyll serve`{:.sh} 
+
+<section class="single">
+
+	<div class="wrap">
+
+		{% if page.comments_id %}
+			{% include comments_post.html %}
+		{% endif %}
+	</div>
+
+</section>
 
