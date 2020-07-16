@@ -31,6 +31,10 @@ research projects focus on plant metabolomics and transcriptomics.
 > [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=naake+thomas).
 
 ### Research articles
+Aarabi, F., Naake, T., Fernie A.R., Hoefgen R. 
+*Coordinating Sulfur Pools under Stress: Rationale and Mechanisms*. 
+accepted.
+
 Toleco M.R., Naake T., Zhang Y., Heazlewood J.L., Fernie A.R.
 *Plant Mitochondrial Carriers: Molecular Gatekeepers that Help to Regulate Plant Central Carbon Metabolism*. Plants 9, 2020; [https://doi.org/10.3390/plants9010117](https://doi.org/10.3390/plants9010117).
 
