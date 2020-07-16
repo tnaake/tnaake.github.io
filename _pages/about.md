@@ -21,7 +21,7 @@ current version of my CV.
 
 I am currently a PhD student in the group of Alisdair R. Fernie at the 
 Max Planck Institute of Molecular Plant Physiology, Potsdam-Golm. My 
-research projects focus on plant metabolomics and transcriptomics. 
+research projects focus on plant genomics, metabolomics and transcriptomics. 
 
 ## Publications
 
