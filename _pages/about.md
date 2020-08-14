@@ -32,8 +32,8 @@ research projects focus on plant genomics, metabolomics and transcriptomics.
 
 ### Research articles
 Aarabi, F., Naake, T., Fernie A.R., Hoefgen R. 
-*Coordinating Sulfur Pools under Stress: Rationale and Mechanisms*. 
-accepted.
+*Coordinating Sulfur Pools under Sulfate Deprivation*. Trends in Plant Science, 2020;
+[https://doi.org/10.1016/j.tplants.2020.07.007](https://doi.org/10.1016/j.tplants.2020.07.007).
 
 Toleco M.R., Naake T., Zhang Y., Heazlewood J.L., Fernie A.R.
 *Plant Mitochondrial Carriers: Molecular Gatekeepers that Help to Regulate Plant Central Carbon Metabolism*. Plants 9, 2020; [https://doi.org/10.3390/plants9010117](https://doi.org/10.3390/plants9010117).
