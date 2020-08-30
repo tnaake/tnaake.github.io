@@ -117,7 +117,7 @@ dandelion or 0, whatever is smaller.
 
 ![Sending availabilities](/images/affinity_propagation/sending_availabilities.jpg){:height="100%" width="100%"}
 *Message passing in affinity propagation: Sending availabilities. 
-Availabilities a(i,k) are sent from a potential exemplar `k?` to a data point 
+Availabilities a(i,k) are sent from a potential exemplar `k` to a data point 
 `i`. They represent how well-suited a potential exemplar is as a cluster 
 center for the data point `i` (Frey & Dueck, 2007).*
 
