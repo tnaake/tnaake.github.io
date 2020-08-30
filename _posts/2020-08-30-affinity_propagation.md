@@ -1,6 +1,6 @@
 ---
 title: "Affinity propagation in R" 
-date: 2020-10-30
+date: 2020-09-30
 tags: [clustering]
 header: 
   # image: "/images/"
