@@ -108,7 +108,7 @@ is an exemplar based on the positive responsibilites that are sent to the
 potential exemplar `k` from the other points `i'`. 
 
 The non-diagonal values are calculated based on the formula: 
-<img src="https://render.githubusercontent.com/render/math?math=a(i,k) \leftarrow min\{0, r(k,k) \+ \sum_{i'\,s.t.\,i'\,\notin\,\{i,k\}}^{} max\{0, r(i',k)\} \}">.
+<img src="https://render.githubusercontent.com/render/math?math=a(i,k) \leftarrow min\{0, r(k,k) \texttt{+} \sum_{i'\,s.t.\,i'\,\notin\,\{i,k\}}^{} max\{0, r(i',k)\} \}">.
 Since this formula appears a bit more complicated we come back to the example 
 of plant species to understand better what it does: 
 The availability of rose (column) to dandelion (row) is 
