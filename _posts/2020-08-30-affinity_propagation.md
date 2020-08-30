@@ -13,8 +13,8 @@ Affinity propagation is based on the message-passing principle and requires no
 prior definition of the number of clusters. 
 Affinity propagation scales well with the size of data points. Moreover, this 
 clustering algorithm does not require symmetric similarity matrices
-[i.e., $$ s(i,k) \ne s(k,i)$] and to problems where the triangle equality 
-for the similarities  [$$ s(i,k) < s(i,k) + s(j,k)$$] is not met.
+[i.e., $ s(i,k) \ne s(k,i)$] and to problems where the triangle equality 
+for the similarities  [$ s(i,k) < s(i,k) + s(j,k)$] is not met.
 
 Affinity propagation uses 4 matrices:
   - similarity matrix
