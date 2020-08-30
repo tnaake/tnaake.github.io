@@ -88,7 +88,7 @@ In the case of `k==i`, the responsibility `r(k,k)` is set to `s(k,k)`
 minus the maximum similarity between point `i` and all other candidate 
 exemplars.
 
-![Sending responsibilities](/images/sending_responsibilities.jpg){:height="50%" width="50%"}
+![Sending responsibilities](/images/affinity_propagation/sending_responsibilities.jpg){:height="90%" width="90%"}
 *Message passing in affinity propagation: Sending responsibilities. 
 Responsibilities `r(i,k)` are sent from a data point `i` to potential 
 exemplar `k`. They represent how well-suited a data point `i` favors
@@ -115,7 +115,7 @@ rose's self responsibility plus the sum of the remaining positive
 responsibilites of rose's column excluding the responsibility of rose to 
 dandelion or 0, whatever is smaller. 
 
-![Sending availabilities](/images/sending_availabilities.jpg){:height="50%" width="50%"}
+![Sending availabilities](/images/affinity_propagation/sending_availabilities.jpg){:height="90%" width="90%"}
 *Message passing in affinity propagation: Sending availabilities. 
 Availabilities a(i,k) are sent from a potential exemplar `k?` to a data point 
 `i`. They represent how well-suited a potential exemplar is as a cluster 
@@ -150,6 +150,8 @@ mat <- rbind(cluster1, cluster2)
 ## visualize the two clusters
 plot(mat, xlab = "", ylab = "")
 ``` 
+![toy1](/images/affinity_propagation/affinitypropagation_toy1.jpg){:height="90%" width="90%"}
+
 
 In the next step, we apply the affinity progagation algorithm using the 
 `apcluster` function. For the sake of demonstration, we will do this in two
@@ -183,6 +185,7 @@ clustering result by entering
 ```
 plot(apc_1, mat)
 ```
+![toy2](/images/affinity_propagation/affinitypropagation_toy2.jpg){:height="90%" width="90%"}
 The two exemplars of the clusters are displayed as squares. 
 
 Several functions exist to analyze the output stored in the S4 object 
