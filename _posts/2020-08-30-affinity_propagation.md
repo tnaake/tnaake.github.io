@@ -115,7 +115,7 @@ rose's self responsibility plus the sum of the remaining positive
 responsibilites of rose's column excluding the responsibility of rose to 
 dandelion or 0, whatever is smaller. 
 
-![Sending availabilities](/images/affinity_propagation/sending_availabilities.jpg){:height="90%" width="90%"}
+![Sending availabilities](/images/affinity_propagation/sending_availabilities.jpg){:height="100%" width="100%"}
 *Message passing in affinity propagation: Sending availabilities. 
 Availabilities a(i,k) are sent from a potential exemplar `k?` to a data point 
 `i`. They represent how well-suited a potential exemplar is as a cluster 
@@ -150,7 +150,7 @@ mat <- rbind(cluster1, cluster2)
 ## visualize the two clusters
 plot(mat, xlab = "", ylab = "")
 ``` 
-![toy1](/images/affinity_propagation/affinitypropagation_toy1.jpg){:height="90%" width="90%"}
+![toy1](/images/affinity_propagation/affinitypropagation_toy1.jpg){:height="100%" width="100%"}
 
 
 In the next step, we apply the affinity progagation algorithm using the 
@@ -185,8 +185,10 @@ clustering result by entering
 ```
 plot(apc_1, mat)
 ```
-![toy2](/images/affinity_propagation/affinitypropagation_toy2.jpg){:height="90%" width="90%"}
-The two exemplars of the clusters are displayed as squares. 
+![toy2](/images/affinity_propagation/affinitypropagation_toy2.jpg){:height="100%" width="100%"}
+
+The two clusters are displayed in cyan and red; the two exemplars of 
+the clusters are displayed as squares. 
 
 Several functions exist to analyze the output stored in the S4 object 
 `APResult` returned by the function `apcluster`. The interested reader may 
