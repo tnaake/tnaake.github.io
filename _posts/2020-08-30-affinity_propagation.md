@@ -13,8 +13,8 @@ Affinity propagation is based on the message-passing principle and requires no
 prior definition of the number of clusters. 
 Affinity propagation scales well with the size of data points. Moreover, this 
 clustering algorithm does not require symmetric similarity matrices
-[i.e., $ s(i,k) \ne s(k,i)$] and to problems where the triangle equality 
-for the similarities  [$ s(i,k) < s(i,k) + s(j,k)$] is not met.
+[i.e., <a href="https://www.codecogs.com/eqnedit.php?latex=s(i,k)&space;\ne&space;s(k,&space;i)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?s(i,k)&space;\ne&space;s(k,&space;i)" title="s(i,k) \ne s(k, i)" /></a>] and to problems where the triangle equality 
+for the similarities  [<a href="https://www.codecogs.com/eqnedit.php?latex=s(i,k)&space;<&space;s(i,k)&space;&plus;&space;s(j,k)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?s(i,k)&space;<&space;s(i,k)&space;&plus;&space;s(j,k)" title="s(i,k) < s(i,k) + s(j,k)" /></a>] is not met.
 
 Affinity propagation uses 4 matrices:
   - similarity matrix
@@ -187,7 +187,7 @@ propagation (`apcluster`, `apclusterK` = using a pre-defined number of clusters,
 
 ## References
 Frey B.J., Dueck D. Clustering by Passing Messages Between Data Points. 
-Science, 315: 972-976, 2007, 10.1126/science.1136800 
+Science, 315: 972-976, 2007, [https://doi.org/10.1126/science.1136800](doi: 10.1126/science.1136800)
 
 Bodenhofer U., Palme J., Melkonian C., Kothmeier A. APCluster - An R package 
 for affinity propagation clustering
