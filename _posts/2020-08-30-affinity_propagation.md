@@ -8,7 +8,7 @@ excerpt: "Affinity propagation in R"
 ---
 
 Today we'll have a closer look on the fundamentals of affinity propagation and
-how to run this kind of clustering algorithm in the R programming language. 
+how to run this kind of clustering algorithm in the `R` programming language. 
 Affinity propagation is based on the message-passing principle and requires no 
 prior definition of the number of clusters. 
 Affinity propagation scales well with the size of data points. Moreover, this 
@@ -40,11 +40,11 @@ which are exchanged between the data points of the data set, that are
 fundamental to affinity propagation clustering. 
 One message, called the responsibility `r(i, k)`, is sent from a data point
 `i` to a candidate exemplar point `k`. The responsibility represents the
-evidence for the point `k` to serve as an exemplar for the data point $$i$$,
+evidence for the point `k` to serve as an exemplar for the data point `i`,
 while taking into account other potential exemplars for the point `i`. 
 The second message, the availability `a(i, k)`, is emitted from a potential
 exemplar point `k` to a data point `i`. The availability represents the 
-evidence for the point $$i$$ to have the point `k` as its exemplar, and 
+evidence for the point `i` to have the point `k` as its exemplar, and 
 considers the support from other points that `k` should be an exemplar. 
 
 The responsibility `r(i, k)` and the availability `a(i, k)` can be 
@@ -58,7 +58,7 @@ used by affinity propagation.
 The similarity matrix represents the input given to the affinity progagation 
 function. It contains pair-wise similarities reflecting how similar two 
 objects are. The diagonal is typically filled with the lowest number among all 
-cells (input preference that point k is chosen as an exemplar). 
+cells (input preference that point `k` is chosen as an exemplar). 
 The non-diagonal values contain the similarity values, e.g. the 
 negation of the sum of squares, although other similarities can be used
 (e.g., exponential transformation of distances, linear scaling of distances
@@ -70,38 +70,38 @@ The responsibility matrix contains the values that reflect how responsible one
 point is for another point according to the equation: 
 <img src="https://render.githubusercontent.com/render/math?math=r(i, k) \leftarrow s(i,k) - max_{k' s.t. k' \ne k}{a(i,k') + s(i,k')}">
 
-Since all availabilites are set to zero in the beginning, $$r(i, k)$$ is set
+Since all availabilites are set to zero in the beginning, `r(i, k)` is set
 in the first iteration round to the input similarity between $$i$$ and the 
-potential exemplar $$k$$ minus the largest value of the similarities between 
-the point $$i$$ and the other potential exemplar candidates $$k'$$. 
+potential exemplar `k` minus the largest value of the similarities between 
+the point `i` and the other potential exemplar candidates `k'`. 
 
 To put this in plain words, we can think of an example that tries to cluster 
 plants based on their similarities (e.g., height, diameter, and any other 
-measure). We assume that we have $n$ plants in our data set: e.g, rose, 
+measure). We assume that we have `n` plants in our data set: e.g, rose, 
 dandelion, tomato, oak, fir, and others. To calculate the responsibility for
 rose (column) to dandelion (row) we calculate the similarity of 
 rose to dandelion minus the maximum of the sum of 
 the remaining (non-diagonal) availability scores and the remaining 
 similarities in dandelion's row (i.e., these of tomato, oak, fir, and others). 
 
-In the case of $$k==1$$, the responsibility $$r(k, k)$$ is set to $$s(k, k)$$ 
-minus the maximum similarity between point $$i$$ and all other candidate 
+In the case of `k==i`, the responsibility `r(k, k)` is set to `s(k, k)` 
+minus the maximum similarity between point `i` and all other candidate 
 exemplars.
 
 ## Availability matrix
 The availability matrix contains the values that reflect how available one 
 point is to be an exemplar for another point. Upon initialization of the 
-clustering procedure, all availabilites are set to zero, $$a(i, k) = 0$$. 
+clustering procedure, all availabilites are set to zero, `a(i, k) = 0`. 
 
 The diagonal values of this matrix contain the sum of all positive 
 responsibilites in the column, excluding the point's self-responsibility: 
-$$ a(k, k) \leftarrow sum_{i' s.t. i'\ne k} max{0, r(i, k)} $$. 
-Thus, this value corresponds to the accumulated evidence that the point $$k$$
+<img src="https://render.githubusercontent.com/render/math?math=a(k, k) \leftarrow sum_{i' s.t. i'\ne k} max{0, r(i, k)}">. 
+Thus, this value corresponds to the accumulated evidence that the point `k`
 is an exemplar based on the positive responsibilites that are sent to the 
-potential exemplar $$k$$ from the other points $$i'$$. 
+potential exemplar `k` from the other points `i'`. 
 
 The non-diagonal values are calculated based on the formula: 
-$$ a(i, k) \leftarrow min{0, r(k, k) + sum_{i' s.t. i' \notin {i,k}} max{0, r(i',k)} } $$.
+<img src="https://render.githubusercontent.com/render/math?math=a(i, k) \leftarrow min{0, r(k, k) + sum_{i' s.t. i' \notin {i,k}} max{0, r(i',k)} }">.
 Since this formula appears a bit more complicated we come back to the example 
 of plant species. The availability of rose (column) to dandelion (row) is 
 rose's self responsibility plus the sum of the remaining positive 
