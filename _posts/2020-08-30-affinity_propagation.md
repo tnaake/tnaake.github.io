@@ -71,7 +71,7 @@ point is for another point according to the equation:
 <img src="https://render.githubusercontent.com/render/math?math=r(i,k) \leftarrow s(i,k) - max_{k'\, s.t.\, k'\,\ne\,k}\{a(i,k') + s(i,k')\}">
 
 Since all availabilites are set to zero in the beginning, `r(i, k)` is set
-in the first iteration round to the input similarity between $$i$$ and the 
+in the first iteration round to the input similarity between `i` and the 
 potential exemplar `k` minus the largest value of the similarities between 
 the point `i` and the other potential exemplar candidates `k'`. 
 
