@@ -14,7 +14,7 @@ prior definition of the number of clusters.
 Affinity propagation scales well with the size of data points. Moreover, this 
 clustering algorithm does not require symmetric similarity matrices
 [i.e., <img src="https://render.githubusercontent.com/render/math?math=s(i,k) \ne s(k,i)">] 
-and to problems where the triangle equality for the similarities  
+and can be applied to problems where the triangle equality for the similarities
 [<img src="https://render.githubusercontent.com/render/math?math=s(i,k) < s(i,k) %2B s(j,k)">]
 is not met.
 
