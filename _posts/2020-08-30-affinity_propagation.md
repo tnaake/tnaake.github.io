@@ -89,7 +89,11 @@ minus the maximum similarity between point `i` and all other candidate
 exemplars.
 
 ![Sending responsibilities](/images/sending_responsibilities.jpg){:height="50%" width="50%"}
-
+*Message passing in affinity propagation: Sending responsibilities. 
+Responsibilities `r(i,k)` are sent from a data point `i` to potential 
+exemplar `k`. They represent how well-suited a data point `i` favors
+the potential exemplar `k` with respect to other potential candidate exemplars
+(Frey & Dueck, 2007).*
 
 ## Availability matrix
 The availability matrix contains the values that reflect how available one 
@@ -98,13 +102,13 @@ clustering procedure, all availabilites are set to zero, `a(i,k) = 0`.
 
 The diagonal values of this matrix contain the sum of all positive 
 responsibilites in the column, excluding the point's self-responsibility: 
-<img src="https://render.githubusercontent.com/render/math?math=a(k, k) \leftarrow sum_{i'\,s.t.\,i'\,\ne\,k} max\{0, r(i,k)\}">. 
+<img src="https://render.githubusercontent.com/render/math?math=a(k, k) \leftarrow \sum_{i'\,s.t.\,i'\,\ne\,k}^{} max\{0, r(i,k)\}">. 
 Thus, this value corresponds to the accumulated evidence that the point `k`
 is an exemplar based on the positive responsibilites that are sent to the 
 potential exemplar `k` from the other points `i'`. 
 
 The non-diagonal values are calculated based on the formula: 
-<img src="https://render.githubusercontent.com/render/math?math=a(i,k) \leftarrow min\{0, r(k,k) + sum_{i'\,s.t.\,i'\,\notin\,\{i,k\}} max\{0, r(i',k)\} \}">.
+<img src="https://render.githubusercontent.com/render/math?math=a(i,k) \leftarrow min\{0, r(k,k) + \sum_{i'\,s.t.\,i'\,\notin\,\{i,k\}}^{} max\{0, r(i',k)\} \}">.
 Since this formula appears a bit more complicated we come back to the example 
 of plant species. The availability of rose (column) to dandelion (row) is 
 rose's self responsibility plus the sum of the remaining positive 
@@ -112,6 +116,10 @@ responsibilites of rose's column excluding the responsibility of rose to
 dandelion or 0, whatever is smaller. 
 
 ![Sending availabilities](/images/sending_availabilities.jpg){:height="50%" width="50%"}
+*Message passing in affinity propagation: Sending availabilities. 
+Availabilities a(i,k) are sent from a potential exemplar `k?` to a data point 
+`i`. They represent how well-suited a potential exemplar is as a cluster 
+center for the data point `i` (Frey & Dueck, 2007).*
 
 ## Criterion matrix
 The message-passing steps by iteratively updating the responsibility and 
