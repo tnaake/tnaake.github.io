@@ -15,7 +15,7 @@ Affinity propagation scales well with the size of data points. Moreover, this
 clustering algorithm does not require symmetric similarity matrices
 [i.e., <img src="https://render.githubusercontent.com/render/math?math=s(i,k) \ne s(k,i)">] 
 and to problems where the triangle equality for the similarities  
-[<img src="https://render.githubusercontent.com/render/math?math=s(i,k) < s(i,k) + s(j,k)">]
+[<img src="https://render.githubusercontent.com/render/math?math=s(i,k) < s(i,k) %2B s(j,k)">]
 is not met.
 
 Affinity propagation uses 4 matrices:
@@ -68,7 +68,7 @@ with truncation, correlation, or linear kernel).
 ## Responsibility matrix
 The responsibility matrix contains the values that reflect how responsible one 
 point is for another point according to the equation: 
-<img src="https://render.githubusercontent.com/render/math?math=r(i,k) \leftarrow s(i,k) - max_{k'\, s.t.\, k'\,\ne\,k}\{a(i,k') + s(i,k')\}">
+<img src="https://render.githubusercontent.com/render/math?math=r(i,k) \leftarrow s(i,k) - max_{k'\, s.t.\, k'\,\ne\,k}\{a(i,k') %2B s(i,k')\}">
 
 Since all availabilites are set to zero in the beginning, `r(i, k)` is set
 in the first iteration round to the input similarity between `i` and the 
@@ -108,7 +108,7 @@ is an exemplar based on the positive responsibilites that are sent to the
 potential exemplar `k` from the other points `i'`. 
 
 The non-diagonal values are calculated based on the formula: 
-<img src="https://render.githubusercontent.com/render/math?math=a(i,k) \leftarrow min\{0, r(k,k)\,+\,\sum_{i'\,s.t.\,i'\,\notin\,\{i,k\}}^{} max\{0, r(i',k)\} \}">.
+<img src="https://render.githubusercontent.com/render/math?math=a(i,k) \leftarrow min\{0, r(k,k)\,%2B,\sum_{i'\,s.t.\,i'\,\notin\,\{i,k\}}^{} max\{0, r(i',k)\} \}">.
 Since this formula appears a bit more complicated we come back to the example 
 of plant species to understand better what it does: 
 The availability of rose (column) to dandelion (row) is 
