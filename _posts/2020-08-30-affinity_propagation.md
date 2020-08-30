@@ -88,6 +88,9 @@ In the case of `k==i`, the responsibility `r(k,k)` is set to `s(k,k)`
 minus the maximum similarity between point `i` and all other candidate 
 exemplars.
 
+![Sending responsibilities](/images/sending_responsibilities.jpg){:height="50%" width="50%"}
+
+
 ## Availability matrix
 The availability matrix contains the values that reflect how available one 
 point is to be an exemplar for another point. Upon initialization of the 
@@ -107,6 +110,8 @@ of plant species. The availability of rose (column) to dandelion (row) is
 rose's self responsibility plus the sum of the remaining positive 
 responsibilites of rose's column excluding the responsibility of rose to 
 dandelion or 0, whatever is smaller. 
+
+![Sending availabilities](/images/sending_availabilities.jpg){:height="50%" width="50%"}
 
 ## Criterion matrix
 The message-passing steps by iteratively updating the responsibility and 
