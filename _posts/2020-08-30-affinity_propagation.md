@@ -68,7 +68,7 @@ with truncation, correlation, or linear kernel).
 ## Responsibility matrix
 The responsibility matrix contains the values that reflect how responsible one 
 point is for another point according to the equation: 
-<img src="https://render.githubusercontent.com/render/math?math=r(i, k) \leftarrow s(i,k) - max_{k'\, s.t.\, k'\,\ne\,k}\{a(i,k') + s(i,k')\}">
+<img src="https://render.githubusercontent.com/render/math?math=r(i,k) \leftarrow s(i,k) - max_{k'\, s.t.\, k'\,\ne\,k}\{a(i,k') + s(i,k')\}">
 
 Since all availabilites are set to zero in the beginning, `r(i, k)` is set
 in the first iteration round to the input similarity between $$i$$ and the 
@@ -84,24 +84,24 @@ rose to dandelion minus the maximum of the sum of
 the remaining (non-diagonal) availability scores and the remaining 
 similarities in dandelion's row (i.e., these of tomato, oak, fir, and others). 
 
-In the case of `k==i`, the responsibility `r(k, k)` is set to `s(k, k)` 
+In the case of `k==i`, the responsibility `r(k,k)` is set to `s(k,k)` 
 minus the maximum similarity between point `i` and all other candidate 
 exemplars.
 
 ## Availability matrix
 The availability matrix contains the values that reflect how available one 
 point is to be an exemplar for another point. Upon initialization of the 
-clustering procedure, all availabilites are set to zero, `a(i, k) = 0`. 
+clustering procedure, all availabilites are set to zero, `a(i,k) = 0`. 
 
 The diagonal values of this matrix contain the sum of all positive 
 responsibilites in the column, excluding the point's self-responsibility: 
-<img src="https://render.githubusercontent.com/render/math?math=a(k, k) \leftarrow sum_{i^\prime~s.t.~i^\prime~\ne~k} max\{0, r(i, k)\}">. 
+<img src="https://render.githubusercontent.com/render/math?math=a(k, k) \leftarrow sum_{i'\,s.t.\,i'\,\ne\,k} max\{0, r(i,k)\}">. 
 Thus, this value corresponds to the accumulated evidence that the point `k`
 is an exemplar based on the positive responsibilites that are sent to the 
 potential exemplar `k` from the other points `i'`. 
 
 The non-diagonal values are calculated based on the formula: 
-<img src="https://render.githubusercontent.com/render/math?math=a(i, k) \leftarrow min\{0, r(k, k) + sum_{i^\prime~s.t.~i^\prime~\notin~\{i,k\}} max\{0, r(i^\prime, k)\} \}">.
+<img src="https://render.githubusercontent.com/render/math?math=a(i,k) \leftarrow min\{0, r(k,k) + sum_{i'\,s.t.\,i'\,\notin\,\{i,k\}} max\{0, r(i',k)\} \}">.
 Since this formula appears a bit more complicated we come back to the example 
 of plant species. The availability of rose (column) to dandelion (row) is 
 rose's self responsibility plus the sum of the remaining positive 
