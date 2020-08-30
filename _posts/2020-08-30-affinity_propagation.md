@@ -13,9 +13,10 @@ Affinity propagation is based on the message-passing principle and requires no
 prior definition of the number of clusters. 
 Affinity propagation scales well with the size of data points. Moreover, this 
 clustering algorithm does not require symmetric similarity matrices
-[i.e.,
-<img src="https://render.githubusercontent.com/render/math?math=s(i, k) \ne s(k, i)">] and to problems where the triangle equality 
-for the similarities  [<a href="https://www.codecogs.com/eqnedit.php?latex=s(i,k)&space;<&space;s(i,k)&space;&plus;&space;s(j,k)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?s(i,k)&space;<&space;s(i,k)&space;&plus;&space;s(j,k)" title="s(i,k) < s(i,k) + s(j,k)" /></a>] is not met.
+[i.e., <img src="https://render.githubusercontent.com/render/math?math=s(i, k) \ne s(k, i)">] 
+and to problems where the triangle equality for the similarities  
+[<img src="https://render.githubusercontent.com/render/math?math=s(i,k) < s(i,k) + s(j,k)">]
+is not met.
 
 Affinity propagation uses 4 matrices:
   - similarity matrix
@@ -37,16 +38,16 @@ of the input preferences and the message-passing method.
 In the following, we will quickly go through the two major kinds of messages, 
 which are exchanged between the data points of the data set, that are 
 fundamental to affinity propagation clustering. 
-One message, called the responsibility $$r(i, k)$$, is sent from a data point
-$$i$$ to a candidate exemplar point $$k$$. The responsibility represents the
-evidence for the point $$k$$ to serve as an exemplar for the data point $$i$$,
-while taking into account other potential exemplars for the point $$i$$. 
-The second message, the availability $$a(i, k)$$, is emitted from a potential
-exemplar point $$k$$ to a data point $$i$$. The availability represents the 
-evidence for the point $$i$$ to have the point $$k$$ as its exemplar, and 
-considers the support from other points that $$k$$ should be an exemplar. 
+One message, called the responsibility `r(i, k)`, is sent from a data point
+`i` to a candidate exemplar point `k`. The responsibility represents the
+evidence for the point `k` to serve as an exemplar for the data point $$i$$,
+while taking into account other potential exemplars for the point `i`. 
+The second message, the availability `a(i, k)`, is emitted from a potential
+exemplar point `k` to a data point `i`. The availability represents the 
+evidence for the point $$i$$ to have the point `k` as its exemplar, and 
+considers the support from other points that `k` should be an exemplar. 
 
-The responsibility $$r(i, k)$$ and the availability $$a(i, k)$$ can be 
+The responsibility `r(i, k)` and the availability `a(i, k)` can be 
 regarded as log-probability ratios (Frey & Dueck, 2007). 
 
 In the next few section, we will have a closer look on the four matrices
@@ -67,8 +68,7 @@ with truncation, correlation, or linear kernel).
 ## Responsibility matrix
 The responsibility matrix contains the values that reflect how responsible one 
 point is for another point according to the equation: 
-
-$$ r(i, k) \leftarrow s(i,k) - max_{k' s.t. k' \ne k}{a(i,k') + s(i,k')} $$
+<img src="https://render.githubusercontent.com/render/math?math=r(i, k) \leftarrow s(i,k) - max_{k' s.t. k' \ne k}{a(i,k') + s(i,k')}">
 
 Since all availabilites are set to zero in the beginning, $$r(i, k)$$ is set
 in the first iteration round to the input similarity between $$i$$ and the 
