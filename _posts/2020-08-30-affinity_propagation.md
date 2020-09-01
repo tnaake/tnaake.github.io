@@ -50,7 +50,7 @@ considers the support from other points that `k` should be an exemplar.
 The responsibility `r(i,k)` and the availability `a(i,k)` can be 
 regarded as log-probability ratios (Frey & Dueck, 2007). 
 
-In the next few section, we will have a closer look on the four matrices
+In the next few sections, we will have a closer look on the four matrices
 used by affinity propagation. 
 
 
@@ -108,7 +108,7 @@ is an exemplar based on the positive responsibilites that are sent to the
 potential exemplar `k` from the other points `i'`. 
 
 The non-diagonal values are calculated based on the formula: 
-<img src="https://render.githubusercontent.com/render/math?math=a(i,k) \leftarrow min\{0, r(k,k)\,%2B,\sum_{i'\,s.t.\,i'\,\notin\,\{i,k\}}^{} max\{0, r(i',k)\} \}">.
+<img src="https://render.githubusercontent.com/render/math?math=a(i,k) \leftarrow min\{0, r(k,k)\,%2B\,\sum_{i'\,s.t.\,i'\,\notin\,\{i,k\}}^{} max\{0, r(i',k)\} \}">.
 Since this formula appears a bit more complicated we come back to the example 
 of plant species to understand better what it does: 
 The availability of rose (column) to dandelion (row) is 
