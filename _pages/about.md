@@ -19,9 +19,9 @@ current version of my CV.
 
 ## Research
 
-I am currently a PhD student in the group of Alisdair R. Fernie at the 
-Max Planck Institute of Molecular Plant Physiology, Potsdam-Golm. My 
-research projects focus on plant genomics, metabolomics and transcriptomics. 
+I am a Postdoctoral Fellow in the group of Wolfgang Huber at the 
+European Molecular Biology Laboratory (EMBL) Heidelberg, Germany. My 
+research projects focus on cancer proteomics and metabolomics. 
 
 ## Publications
 
@@ -31,7 +31,14 @@ research projects focus on plant genomics, metabolomics and transcriptomics.
 > [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=naake+thomas).
 
 ### Research articles
-Aarabi, F., Naake, T., Fernie A.R., Hoefgen R. 
+Naake T., Maeda H.A., Proost S., Tohge T., Fernie A.R.
+*Kingdom-wide analysis of the evolution of the plant type III polyketide synthase superfamily*,
+accepted.
+
+Yan S., Liu Q., Naake T., Huang W., Chen M., Kong Q., Zhang S., Li W., Li X., Liu Q., Yang J., Fernie A.R., Liu B.
+*OsGF14b modulates defense signaling pathways in rice panicle blast response*. The Crop Journal, in print.
+
+Aarabi F., Naake T., Fernie A.R., Hoefgen R. 
 *Coordinating Sulfur Pools under Sulfate Deprivation*. Trends in Plant Science, 2020;
 [https://doi.org/10.1016/j.tplants.2020.07.007](https://doi.org/10.1016/j.tplants.2020.07.007).
 
