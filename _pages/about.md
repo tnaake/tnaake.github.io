@@ -31,12 +31,18 @@ research projects focus on cancer proteomics and metabolomics.
 > [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=naake+thomas).
 
 ### Research articles
-Naake T., Maeda H.A., Proost S., Tohge T., Fernie A.R.
-*Kingdom-wide analysis of the evolution of the plant type III polyketide synthase superfamily*,
+Aneklaphakij C., Saigo T., Watanabe M., Naake T., Fernie A.R., Bunsupa S., Satitpatipan V., Tohge T.
+*Diversity of chemical structures and biosynthesis of polyphenols in nut bearing species*,
 accepted.
 
+Naake T., Maeda H.A., Proost S., Tohge T., Fernie A.R.
+*Kingdom-wide analysis of the evolution of the plant type III polyketide synthase superfamily*,
+Plant Physiology, 2020.
+[https://doi.org/10.1093/plphys/kiaa086](https://doi.org/10.1093/plphys/kiaa086).
+
 Yan S., Liu Q., Naake T., Huang W., Chen M., Kong Q., Zhang S., Li W., Li X., Liu Q., Yang J., Fernie A.R., Liu B.
-*OsGF14b modulates defense signaling pathways in rice panicle blast response*. The Crop Journal, in print.
+*OsGF14b modulates defense signaling pathways in rice panicle blast response*. The Crop Journal, 2020;
+[https://doi.org/10.1016/j.cj.2020.10.007](https://doi.org/10.1016/j.cj.2020.10.007).
 
 Aarabi F., Naake T., Fernie A.R., Hoefgen R. 
 *Coordinating Sulfur Pools under Sulfate Deprivation*. Trends in Plant Science, 2020;
