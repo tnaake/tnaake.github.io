@@ -133,27 +133,38 @@ I have developed open-source
 R/[Bioconductor](http://www.bioconductor.org) software packages. Check my
 [GitHub page](http://www.github.com/tnaake) and in particular
 the [MetCirc](http://www.github.com/tnaake/MetCirc) and 
-[MetNet](http://www.github.com/tnaake/MetNet) repositories to learn more
-about the packages I developed. I am also the author of the first version
+[MetNet](http://www.github.com/tnaake/MetNet),
+[MatrixQCvis](http://www.github.com/tnaake/MatrixQCvis)
+ repositories to learn more about the packages I developed. 
+
+I am also the author of the first version
 [pRolocGUI](https://github.com/ComputationalProteomicsUnit/pRolocGUI)
 package that was created during an ERASMUS placement at the 
 Computational Proteomics Unit headed 
 by [Laurent Gatto](http://lgatto.github.io) (now at UCLouvain) at the 
 University of Cambridge. 
 
-Naake T. 
-*MetNet: Inferring metabolic networks from untargeted high-resolution mass spectrometry data*. 
-2019; [https://doi.org/10.18129/B9.bioc.MetNet](https://doi.org/10.18129/B9.bioc.MetNet).
 
-Naake T., Gaquerel, E. 
+Naake T., Huber W.
+*Shiny-based interactive data-quality exploration for omics data*. 2022;
+[https://doi.org/10.18129/B9.bioc.MatrixQCvis](https://doi.org/10.18129/B9.bioc.MatrixQCvis)
+
+Naake T., Salzer L. 
+*MetNet: Inferring metabolic networks from untargeted high-resolution mass spectrometry data*. 
+2022; [https://doi.org/10.18129/B9.bioc.MetNet](https://doi.org/10.18129/B9.bioc.MetNet).
+
+Naake T., Gaquerel E. 
 *MetCirc: Navigating mass spectral similarity in high-resolution MS/MS metabolomics data*. 
-2019; [https://doi.org/10.18129/B9.bioc.MetCirc](https://doi.org/10.18129/B9.bioc.MetCirc)
+2022; [https://doi.org/10.18129/B9.bioc.MetCirc](https://doi.org/10.18129/B9.bioc.MetCirc)
 
 Breckels L., Naake T., Gatto L. 
 *pRolocGUI: Interactive visualisation of spatial proteomics data*. 
 2019; [https://doi.org/10.18129/B9.bioc.pRolocGUI](https://doi.org/10.18129/B9.bioc.pRolocGUI)
 
 ## Recent talks 
+
+Naake T. MsQuality: quality metrics for mass spectrometry data. 
+23/11/2021, Wittenberg, de.NBI CompMS metaRbolomics.
 
 Naake T. MetCirc: Navigating mass spectral similarity in high-resolution MS/MS metabolomics
 data - Recent updates. 25/07/2019, Brixen, CSAMA: Statistical Data Analysis
@@ -169,6 +180,10 @@ CompMS metaRbolomics.
 
 
 ## Posters 
+
+Naake T., Huber W. MatrixQCvis - shiny-based interactive data quality exploration 
+for omics data. 27-30/09/2021, Bad B\"urkheim, MsCoreSys Summer School: 
+Mass spectrometry meets system medicine.
 
 Naake T., Tohge T., Fernie A.R. Plant kingdom-wide analysis to study the evolution of
 the polyketide synthase superfamily. 16–23/09/2018, Greifswald, Greifolution: 1st
