@@ -31,13 +31,29 @@ research projects focus on cancer proteomics and metabolomics.
 > [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=naake+thomas).
 
 ### Research articles
+
+Amara A., Frainay C., Jourdan F., Naake T., Neumann S., Novoa-del-Toro E.M., Salek R., Salzer L., Scharfenberg S.,  Witting M.A.
+*Networks and graphs discovery in metabolomics data analysis and interpretation*,
+Frontiers in Molecular Biosciences, 2022.
+
+Naake T., Huber W.
+*MatrixQCvis: shiny-based interactive data quality exploration for omics data*,
+Bioinformatics, 2022;
+[https://doi.org/10.1093/bioinformatics/btab748](https://doi.org/10.1093/bioinformatics/btab748)
+
+Zhu F., Alseekh S., Koper K., Tong H., Nikoloski Z., Naake T., Liu H., Yan J., Brotman Y., Wen W., Maeda H., Cheng Y., Fernie A.R.
+*Genome-wide association of the metabolic shifts underpinning dark-induced senescence in Arabidopsis*, 
+The Plant Cell, 2022;
+[https://doi.org/10.1093/plcell/koab251](https://doi.org/10.1093/plcell/koab251)
+
 Aneklaphakij C., Saigo T., Watanabe M., Naake T., Fernie A.R., Bunsupa S., Satitpatipan V., Tohge T.
 *Diversity of chemical structures and biosynthesis of polyphenols in nut bearing species*,
-accepted.
+Frontiers in Plant Science, 2021;
+[https://doi.org/10.3389/fpls.2021.642581](https://doi.org/10.3389/fpls.2021.642581)
 
 Naake T., Maeda H.A., Proost S., Tohge T., Fernie A.R.
 *Kingdom-wide analysis of the evolution of the plant type III polyketide synthase superfamily*,
-Plant Physiology, 2020.
+Plant Physiology, 2020;
 [https://doi.org/10.1093/plphys/kiaa086](https://doi.org/10.1093/plphys/kiaa086).
 
 Yan S., Liu Q., Naake T., Huang W., Chen M., Kong Q., Zhang S., Li W., Li X., Liu Q., Yang J., Fernie A.R., Liu B.
@@ -49,7 +65,9 @@ Aarabi F., Naake T., Fernie A.R., Hoefgen R.
 [https://doi.org/10.1016/j.tplants.2020.07.007](https://doi.org/10.1016/j.tplants.2020.07.007).
 
 Toleco M.R., Naake T., Zhang Y., Heazlewood J.L., Fernie A.R.
-*Plant Mitochondrial Carriers: Molecular Gatekeepers that Help to Regulate Plant Central Carbon Metabolism*. Plants 9, 2020; [https://doi.org/10.3390/plants9010117](https://doi.org/10.3390/plants9010117).
+*Plant Mitochondrial Carriers: Molecular Gatekeepers that Help to Regulate Plant Central Carbon Metabolism*. 
+Plants 9, 2020; 
+[https://doi.org/10.3390/plants9010117](https://doi.org/10.3390/plants9010117).
 
 Perez de Souza L., Alseekh S., Naake T., Fernie A.R. 
 *Mass spectrometry based untargeted plant metabolomics*. Current Protocols in Plant
