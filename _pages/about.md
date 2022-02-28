@@ -182,7 +182,7 @@ CompMS metaRbolomics.
 ## Posters 
 
 Naake T., Huber W. MatrixQCvis - shiny-based interactive data quality exploration 
-for omics data. 27-30/09/2021, Bad B\"urkheim, MsCoreSys Summer School: 
+for omics data. 27-30/09/2021, Bad Dürkheim, MsCoreSys Summer School: 
 Mass spectrometry meets system medicine.
 
 Naake T., Tohge T., Fernie A.R. Plant kingdom-wide analysis to study the evolution of
