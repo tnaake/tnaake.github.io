@@ -44,6 +44,8 @@ Amara A., Frainay C., Jourdan F., Naake T., Neumann S., Novoa-del-Toro E.M.,
 Salek R., Salzer L., Scharfenberg S.,  Witting M.A.
 *Networks and graphs discovery in metabolomics data analysis and interpretation*,
 Frontiers in Molecular Biosciences, 2022.
+[https://doi.org/10.3389/fmolb.2022.841373](https://doi.org/10.3389/fmolb.2022.841373)
+
 
 Naake T., Huber W.
 *MatrixQCvis: shiny-based interactive data quality exploration for omics data*,
