@@ -32,7 +32,16 @@ research projects focus on cancer proteomics and metabolomics.
 
 ### Research articles
 
-Amara A., Frainay C., Jourdan F., Naake T., Neumann S., Novoa-del-Toro E.M., Salek R., Salzer L., Scharfenberg S.,  Witting M.A.
+Gegner H.M., Naake T., Dugourd A., Mueller T., Czernilofsky F., Kliewer G., 
+Jaeger E., Helm B., Kunze-Rohrbach N., Klingmueller U., Hopf C., 
+Mueller-Tidow C., Dietrich S., Saez-Rodriguez J., Huber W., Hell R., 
+Poschet G., Krijgsveld J.
+*Pre-analytical processing of plasma and serum samples for combined proteome 
+and metabolome analysis*, bioRxiv, 2022;
+[https://doi.org/10.1101/2022.04.26.489520](https://doi.org/10.1101/2022.04.26.489520)
+
+Amara A., Frainay C., Jourdan F., Naake T., Neumann S., Novoa-del-Toro E.M., 
+Salek R., Salzer L., Scharfenberg S.,  Witting M.A.
 *Networks and graphs discovery in metabolomics data analysis and interpretation*,
 Frontiers in Molecular Biosciences, 2022.
 
