@@ -143,9 +143,10 @@ Data Analysis for Metabolomics, 2020;
 I have developed open-source 
 R/[Bioconductor](http://www.bioconductor.org) software packages. Check my
 [GitHub page](http://www.github.com/tnaake) and in particular
-the [MetCirc](http://www.github.com/tnaake/MetCirc) and 
+the [MetCirc](http://www.github.com/tnaake/MetCirc),
 [MetNet](http://www.github.com/tnaake/MetNet),
-[MatrixQCvis](http://www.github.com/tnaake/MatrixQCvis)
+[MatrixQCvis](http://www.github.com/tnaake/MatrixQCvis), and
+[MsQuality](http://www.github.com/tnaake/MsQuality),
  repositories to learn more about the packages I developed. 
 
 I am also the author of the first version
@@ -174,6 +175,9 @@ Breckels L., Naake T., Gatto L.
 
 ## Recent talks 
 
+Neumann S., Burgess K., da Silva R.R., Schirra J., Naake T. 
+Hitchhikers’ guide to networks in metabolomics. 20/06/2022, Valencia, Metabolomics 2022.
+
 Naake T. MsQuality: quality metrics for mass spectrometry data. 
 23/11/2021, Wittenberg, de.NBI CompMS metaRbolomics.
 
@@ -191,6 +195,10 @@ CompMS metaRbolomics.
 
 
 ## Posters 
+
+Naake T., Rainer J., Huber W. MsQuality - an interoperable open-source package for the
+calculation of standardized quality metrics of mass
+spectrometry data. 19-23/06/2022, Valencia, Metabolomics 2022.
 
 Naake T., Huber W. MatrixQCvis - shiny-based interactive data quality exploration 
 for omics data. 27-30/09/2021, Bad Dürkheim, MsCoreSys Summer School: 
