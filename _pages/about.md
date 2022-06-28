@@ -146,8 +146,8 @@ R/[Bioconductor](http://www.bioconductor.org) software packages. Check my
 the [MetCirc](http://www.github.com/tnaake/MetCirc),
 [MetNet](http://www.github.com/tnaake/MetNet),
 [MatrixQCvis](http://www.github.com/tnaake/MatrixQCvis), and
-[MsQuality](http://www.github.com/tnaake/MsQuality),
- repositories to learn more about the packages I developed. 
+[MsQuality](http://www.github.com/tnaake/MsQuality)
+repositories to learn more about the packages I developed. 
 
 I am also the author of the first version
 [pRolocGUI](https://github.com/ComputationalProteomicsUnit/pRolocGUI)
