@@ -34,8 +34,7 @@ research projects focus on cancer proteomics and metabolomics.
 
 Perez de Souza L., Naake T., Fernie A.R.
 *Computational approaches that aid annotation in metabolomics*, 
-Trends in Plant Science, 2022;
-[https://doi.org/10.](https://doi.org/10.)
+Trends in Plant Science, 2022
 
 Gegner H.M., Naake T., Dugourd A., Mueller T., Czernilofsky F., Kliewer G., 
 Jaeger E., Helm B., Kunze-Rohrbach N., Klingmueller U., Hopf C., 
