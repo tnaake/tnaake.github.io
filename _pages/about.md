@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About the author"
-modified: 2019-09-19
+modified: 2022-07-20
 comments: false
 author_profile: true
 header:
@@ -31,6 +31,11 @@ research projects focus on cancer proteomics and metabolomics.
 > [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=naake+thomas).
 
 ### Research articles
+
+Perez de Souza L., Naake T., Fernie A.R.
+*Computational approaches that aid annotation in metabolomics*, 
+Trends in Plant Science, 2022;
+[https://doi.org/10.](https://doi.org/10.)
 
 Gegner H.M., Naake T., Dugourd A., Mueller T., Czernilofsky F., Kliewer G., 
 Jaeger E., Helm B., Kunze-Rohrbach N., Klingmueller U., Hopf C., 
