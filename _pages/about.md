@@ -51,7 +51,6 @@ Salek R., Salzer L., Scharfenberg S.,  Witting M.A.
 Frontiers in Molecular Biosciences, 2022.
 [https://doi.org/10.3389/fmolb.2022.841373](https://doi.org/10.3389/fmolb.2022.841373)
 
-
 Naake T., Huber W.
 *MatrixQCvis: shiny-based interactive data quality exploration for omics data*,
 Bioinformatics, 2022;
