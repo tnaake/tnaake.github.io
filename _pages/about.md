@@ -32,6 +32,12 @@ research projects focus on cancer proteomics and metabolomics.
 
 ### Research articles
 
+Naake T., Scossa F., Perez de Souza L., Borghi M., Brotman Y., Mori T., 
+Nakabayashi R., Tohge T., Fernie A.R. *Genome-wide association studies of seed 
+metabolites identify loci controlling specialized metabolites in Arabidopsis 
+thaliana*, bioRvix, 2022;
+[https://doi.org/10.1101/2022.09.23.509130](https://doi.org/10.1101/2022.09.23.509130)
+
 Perez de Souza L., Naake T., Fernie A.R.
 *Computational approaches that aid annotation in metabolomics*, 
 Trends in Plant Science, 2022;
@@ -56,8 +62,10 @@ Naake T., Huber W.
 Bioinformatics, 2022;
 [https://doi.org/10.1093/bioinformatics/btab748](https://doi.org/10.1093/bioinformatics/btab748)
 
-Zhu F., Alseekh S., Koper K., Tong H., Nikoloski Z., Naake T., Liu H., Yan J., Brotman Y., Wen W., Maeda H., Cheng Y., Fernie A.R.
-*Genome-wide association of the metabolic shifts underpinning dark-induced senescence in Arabidopsis*, 
+Zhu F., Alseekh S., Koper K., Tong H., Nikoloski Z., Naake T., Liu H., Yan J., 
+Brotman Y., Wen W., Maeda H., Cheng Y., Fernie A.R.
+*Genome-wide association of the metabolic shifts underpinning dark-induced 
+senescence in Arabidopsis*, 
 The Plant Cell, 2022;
 [https://doi.org/10.1093/plcell/koab251](https://doi.org/10.1093/plcell/koab251)
 
