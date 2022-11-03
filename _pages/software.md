@@ -1,7 +1,7 @@
 ---
-permalink: /publications/
-title: "Publications"
-modified: 2022-07-20
+permalink: /software/
+title: "Software"
+modified: 2022-11-03
 comments: false
 author_profile: true
 header:

@@ -1,5 +1,5 @@
 ---
-permalink: cv
+permalink: /cv/
 title: CV
 modified: 2022-11-03
 comments: false
