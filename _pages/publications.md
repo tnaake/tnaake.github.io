@@ -1,6 +1,5 @@
 ---
 permalink: /publications/
-title: "Publications"
 modified: 2022-07-20
 comments: false
 author_profile: true
@@ -11,14 +10,14 @@ header:
 
 {% include toc %}
 
-
+# Publications
 
 > See also my [Google scholar 
 > profile](https://scholar.google.de/citations?user=gh9evjAAAAAJ&hl=en)
 > and publications in 
 > [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=naake+thomas).
 
-### Research articles
+## Research articles
 
 Naake T., Scossa F., Perez de Souza L., Borghi M., Brotman Y., Mori T., 
 Nakabayashi R., Tohge T., Fernie A.R. *Genome-wide association studies of seed 
@@ -124,7 +123,7 @@ using R and Bioconductor*. PROTEOMICS 15, 2015;
 
 
 
-### Books/book chapters 
+## Books/book chapters 
 
 Stanstrup J., Broeckling C.D., Helmus R., Hoffmann N., Mathe E., Naake T., 
 Nicolotti L., Peters K., Rainer J., Salek R.M., Schulze T., Schymanski E.L., 
@@ -140,7 +139,7 @@ Data Analysis for Metabolomics, 2020;
 
 
 
-### Recent talks 
+## Recent talks 
 
 Neumann S., Burgess K., da Silva R.R., Schirra J., Naake T. 
 Hitchhikers’ guide to networks in metabolomics. 20/06/2022, Valencia, Metabolomics 2022.
@@ -161,7 +160,7 @@ Data in R Aiding Metabolite Annotation. 02/04/2019, Wittenberg, de.NBI
 CompMS metaRbolomics.
 
 
-### Posters 
+## Posters 
 
 Naake T., Rainer J., Huber W. MsQuality - an interoperable open-source package for the
 calculation of standardized quality metrics of mass

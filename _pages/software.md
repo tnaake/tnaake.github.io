@@ -1,6 +1,5 @@
 ---
 permalink: /software/
-title: "Software"
 modified: 2022-11-03
 comments: false
 author_profile: true
@@ -11,6 +10,7 @@ header:
 
 {% include toc %}
 
+# Software
 
 I have developed open-source 
 R/[Bioconductor](http://www.bioconductor.org) software packages. Check my
