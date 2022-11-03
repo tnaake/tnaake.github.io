@@ -115,16 +115,16 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:thomasnaake@googlemaill.com
+      url: mailto:thomasnaake@googlemaill.com
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/thomasnaake"
-    #- label: "Facebook"
-    #  icon: "fab fa-fw fa-facebook-square"
-    #  # url: "https://facebook.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/dr-thomas-naake-2b31158a/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tnaake"
