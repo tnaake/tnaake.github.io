@@ -11,7 +11,6 @@ header:
 
 {% include toc %}
 
-## Software
 
 I have developed open-source 
 R/[Bioconductor](http://www.bioconductor.org) software packages. Check my

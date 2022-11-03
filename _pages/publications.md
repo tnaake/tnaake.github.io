@@ -13,8 +13,6 @@ header:
 
 
 
-## Publications
-
 > See also my [Google scholar 
 > profile](https://scholar.google.de/citations?user=gh9evjAAAAAJ&hl=en)
 > and publications in 
