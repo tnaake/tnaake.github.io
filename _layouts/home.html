@@ -4,7 +4,11 @@ layout: default
 
 {{ content }}
 
-<p> Hello World</p>
+<body>
+	<p> Hello World</p>
+</body>
+
+
 
 {% capture my_include %}{% include _pages/about.md %}{% endcapture %}
 {{ my_include | markdownify }}
