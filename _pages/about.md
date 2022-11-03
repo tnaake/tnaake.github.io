@@ -4,7 +4,6 @@ title: "About the author"
 modified: 2022-07-20
 comments: false
 author_profile: true
-layout: index
 header:
    #overlay_image: /images/slide-code2.png
    #overlay_filter: 0.3
