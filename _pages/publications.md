@@ -12,12 +12,6 @@ header:
 {% include toc %}
 
 
-## CV
-
-See my [LinkedIn](https://www.linkedin.com/in/dr-thomas-naake-2b31158a/) page for a 
-current version of my CV. 
-
-
 
 ## Publications
 
@@ -146,42 +140,9 @@ Springer Protocols, Methods in Molecular Biology, Computational methods and
 Data Analysis for Metabolomics, 2020; 
 [https://doi.org/10.1007/978-1-0716-0239-3](https://doi.org/10.1007/978-1-0716-0239-3).
 
-## Software
-
-I have developed open-source 
-R/[Bioconductor](http://www.bioconductor.org) software packages. Check my
-[GitHub page](http://www.github.com/tnaake) and in particular
-the [MetCirc](http://www.github.com/tnaake/MetCirc),
-[MetNet](http://www.github.com/tnaake/MetNet),
-[MatrixQCvis](http://www.github.com/tnaake/MatrixQCvis), and
-[MsQuality](http://www.github.com/tnaake/MsQuality)
-repositories to learn more about the packages I developed. 
-
-I am also the author of the first version
-[pRolocGUI](https://github.com/ComputationalProteomicsUnit/pRolocGUI)
-package that was created during an ERASMUS placement at the 
-Computational Proteomics Unit headed 
-by [Laurent Gatto](http://lgatto.github.io) (now at UCLouvain) at the 
-University of Cambridge. 
 
 
-Naake T., Huber W.
-*Shiny-based interactive data-quality exploration for omics data*. 2022;
-[https://doi.org/10.18129/B9.bioc.MatrixQCvis](https://doi.org/10.18129/B9.bioc.MatrixQCvis)
-
-Naake T., Salzer L. 
-*MetNet: Inferring metabolic networks from untargeted high-resolution mass spectrometry data*. 
-2022; [https://doi.org/10.18129/B9.bioc.MetNet](https://doi.org/10.18129/B9.bioc.MetNet).
-
-Naake T., Gaquerel E. 
-*MetCirc: Navigating mass spectral similarity in high-resolution MS/MS metabolomics data*. 
-2022; [https://doi.org/10.18129/B9.bioc.MetCirc](https://doi.org/10.18129/B9.bioc.MetCirc)
-
-Breckels L., Naake T., Gatto L. 
-*pRolocGUI: Interactive visualisation of spatial proteomics data*. 
-2019; [https://doi.org/10.18129/B9.bioc.pRolocGUI](https://doi.org/10.18129/B9.bioc.pRolocGUI)
-
-## Recent talks 
+### Recent talks 
 
 Neumann S., Burgess K., da Silva R.R., Schirra J., Naake T. 
 Hitchhikers’ guide to networks in metabolomics. 20/06/2022, Valencia, Metabolomics 2022.
@@ -202,7 +163,7 @@ Data in R Aiding Metabolite Annotation. 02/04/2019, Wittenberg, de.NBI
 CompMS metaRbolomics.
 
 
-## Posters 
+### Posters 
 
 Naake T., Rainer J., Huber W. MsQuality - an interoperable open-source package for the
 calculation of standardized quality metrics of mass
