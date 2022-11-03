@@ -4,6 +4,10 @@ layout: archive
 
 {{ content }}
 
+
+{% capture my_include %}{% include _pages/about.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
 {{% include_relative _pages/about.md %}}
 
 
