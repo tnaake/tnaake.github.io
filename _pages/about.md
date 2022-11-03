@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About the author"
+permalink: /publications/
+title: "Publications"
 modified: 2022-07-20
 comments: false
 author_profile: true
@@ -17,11 +17,7 @@ header:
 See my [LinkedIn](https://www.linkedin.com/in/dr-thomas-naake-2b31158a/) page for a 
 current version of my CV. 
 
-## Research
 
-I am a Postdoctoral Fellow in the group of Wolfgang Huber at the 
-European Molecular Biology Laboratory (EMBL) Heidelberg, Germany. My 
-research projects focus on cancer proteomics and metabolomics. 
 
 ## Publications
 
