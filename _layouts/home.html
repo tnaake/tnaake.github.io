@@ -2,7 +2,20 @@
 layout: archive
 ---
 
+<!--
+{{ content }}
+-->
 
+
+
+<body>
+	<p> Hello World</p>
+</body>
+
+
+
+{% capture my_include %}{% include about.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
 {{% include_relative about.md %}}
 
