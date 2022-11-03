@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: archive
 ---
 
+<!--
 {{ content }}
+-->
 
 <body>
 	<p> Hello World</p>
@@ -10,10 +12,10 @@ layout: default
 
 
 
-{% capture my_include %}{% include _pages/about.md %}{% endcapture %}
+{% capture my_include %}{% include about.md %}{% endcapture %}
 {{ my_include | markdownify }}
 
-{{% include_relative _pages/about.md %}}
+{{% include_relative about.md %}}
 
 
 <!--
