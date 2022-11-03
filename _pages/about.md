@@ -12,7 +12,6 @@ header:
 
 {% include toc %}
 
-{{ content }}
 
 ## CV
 
