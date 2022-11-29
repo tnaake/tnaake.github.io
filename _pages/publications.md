@@ -19,6 +19,14 @@ header:
 
 ## Research articles
 
+Gegner H.M., Naake T., Dugourd A., Mueller T., Czernilofsky F., Kliewer G., 
+Jaeger E., Helm B., Kunze-Rohrbach N., Klingmueller U., Hopf C., 
+Mueller-Tidow C., Dietrich S., Saez-Rodriguez J., Huber W., Hell R., 
+Poschet G., Krijgsveld J.
+*Pre-analytical processing of plasma and serum samples for combined proteome 
+and metabolome analysis*, Frontiers Molecular Biosciences, 2022;
+[https://doi.org/10.3389/fmolb.2022.961448](https://doi.org/10.3389/fmolb.2022.961448)
+
 Naake T., Scossa F., Perez de Souza L., Borghi M., Brotman Y., Mori T., 
 Nakabayashi R., Tohge T., Fernie A.R. *Genome-wide association studies of seed 
 metabolites identify loci controlling specialized metabolites in Arabidopsis 
@@ -29,14 +37,6 @@ Perez de Souza L., Naake T., Fernie A.R.
 *Computational approaches that aid annotation in metabolomics*, 
 Trends in Plant Science, 2022;
 [https://doi.org/10.1016/j.tplants.2022.06.010](https://doi.org/10.1016/j.tplants.2022.06.010)
-
-Gegner H.M., Naake T., Dugourd A., Mueller T., Czernilofsky F., Kliewer G., 
-Jaeger E., Helm B., Kunze-Rohrbach N., Klingmueller U., Hopf C., 
-Mueller-Tidow C., Dietrich S., Saez-Rodriguez J., Huber W., Hell R., 
-Poschet G., Krijgsveld J.
-*Pre-analytical processing of plasma and serum samples for combined proteome 
-and metabolome analysis*, bioRxiv, 2022;
-[https://doi.org/10.1101/2022.04.26.489520](https://doi.org/10.1101/2022.04.26.489520)
 
 Amara A., Frainay C., Jourdan F., Naake T., Neumann S., Novoa-del-Toro E.M., 
 Salek R., Salzer L., Scharfenberg S.,  Witting M.A.
