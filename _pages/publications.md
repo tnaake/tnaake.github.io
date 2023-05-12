@@ -162,6 +162,11 @@ CompMS metaRbolomics.
 
 ## Posters 
 
+Vicini A., Gine R., Stravs M., Badia J.M., Huber C., Salzer L., Stanstrup J., Shahaf N., 
+Naake T., Hecht H., Neumann S., Witting M., Gibb S., Gatto L., Rainer J. 
+An Open Software Development-based Ecosystem of R Packages for Metabolomics Data Analysis.
+18-22/06/2022, Niagara Falls, Metabolomics 2023.
+
 Naake T., Rainer J., Huber W. MsQuality - an interoperable open-source package for the
 calculation of standardized quality metrics of mass
 spectrometry data. 19-23/06/2022, Valencia, Metabolomics 2022.
