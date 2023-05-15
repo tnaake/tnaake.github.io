@@ -19,6 +19,11 @@ header:
 
 ## Research articles
 
+Naake T., Rainer J., Huber W. 
+*MsQuality - an interoperable open-source package for the calculation of 
+standardized quality metrics of mass spectrometry data*, bioRxiv, 2023;
+[https://doi.org/10.1101/2023.05.12.540477](https://doi.org/10.1101/2023.05.12.540477)
+
 Gegner H.M., Naake T., Dugourd A., Mueller T., Czernilofsky F., Kliewer G., 
 Jaeger E., Helm B., Kunze-Rohrbach N., Klingmueller U., Hopf C., 
 Mueller-Tidow C., Dietrich S., Saez-Rodriguez J., Huber W., Hell R., 
