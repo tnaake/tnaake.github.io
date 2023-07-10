@@ -28,19 +28,22 @@ Computational Proteomics Unit headed
 by [Laurent Gatto](http://lgatto.github.io) (now at UCLouvain) at the 
 University of Cambridge. 
 
+Naake T., Rainer J.
+*MsQuality - Quality metric calculation from Spectra and MsExperiment objects*. 2023;
+[https://doi.org/10.18129/B9.bioc.MsQuality ](https://doi.org/10.18129/B9.bioc.MsQuality )
 
 Naake T., Huber W.
-*Shiny-based interactive data-quality exploration for omics data*. 2022;
+*Shiny-based interactive data-quality exploration for omics data*. 2023;
 [https://doi.org/10.18129/B9.bioc.MatrixQCvis](https://doi.org/10.18129/B9.bioc.MatrixQCvis)
 
 Naake T., Salzer L. 
 *MetNet: Inferring metabolic networks from untargeted high-resolution mass spectrometry data*. 
-2022; [https://doi.org/10.18129/B9.bioc.MetNet](https://doi.org/10.18129/B9.bioc.MetNet).
+2023; [https://doi.org/10.18129/B9.bioc.MetNet](https://doi.org/10.18129/B9.bioc.MetNet).
 
 Naake T., Gaquerel E. 
 *MetCirc: Navigating mass spectral similarity in high-resolution MS/MS metabolomics data*. 
-2022; [https://doi.org/10.18129/B9.bioc.MetCirc](https://doi.org/10.18129/B9.bioc.MetCirc)
+2023; [https://doi.org/10.18129/B9.bioc.MetCirc](https://doi.org/10.18129/B9.bioc.MetCirc)
 
 Breckels L., Naake T., Gatto L. 
 *pRolocGUI: Interactive visualisation of spatial proteomics data*. 
-2019; [https://doi.org/10.18129/B9.bioc.pRolocGUI](https://doi.org/10.18129/B9.bioc.pRolocGUI)
+2023; [https://doi.org/10.18129/B9.bioc.pRolocGUI](https://doi.org/10.18129/B9.bioc.pRolocGUI)
