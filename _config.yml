@@ -109,7 +109,7 @@ social:
 author:
   name             : "Thomas Naake"
   avatar           : /images/portrait_cartoon.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Metabolism, genetics, cancer, evolution, genetics, cancer, computational biology, open science <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy Me a Coffee', '#46b798', 'O5O013YG2');kofiwidget2.draw();</script>"
+  bio              : "Metabolism, genetics, cancer, evolution, genetics, cancer, computational biology, open science"
   location         : "Heidelberg, Germany"
   email            : 
   links:
