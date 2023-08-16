@@ -109,7 +109,7 @@ social:
 author:
   name             : "Thomas Naake"
   avatar           : /images/portrait_cartoon.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Metabolism, genetics, cancer, evolution, genetics, cancer, computational biology, open science"
+  bio              : "Metabolism, genetics, evolution, cancer, computational biology, multi-omics integration, open science"
   location         : "Hamburg, Germany"
   email            : 
   links:
