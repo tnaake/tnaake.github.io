@@ -21,7 +21,7 @@ header:
 
 Naake T., Rainer J., Huber W. 
 *MsQuality - an interoperable open-source package for the calculation of 
-standardized quality metrics of mass spectrometry data*, bioRxiv, 2023;
+standardized quality metrics of mass spectrometry data*. bioRxiv, 2023;
 [https://doi.org/10.1101/2023.05.12.540477](https://doi.org/10.1101/2023.05.12.540477)
 
 Gegner H.M., Naake T., Dugourd A., Mueller T., Czernilofsky F., Kliewer G., 
@@ -29,45 +29,45 @@ Jaeger E., Helm B., Kunze-Rohrbach N., Klingmueller U., Hopf C.,
 Mueller-Tidow C., Dietrich S., Saez-Rodriguez J., Huber W., Hell R., 
 Poschet G., Krijgsveld J.
 *Pre-analytical processing of plasma and serum samples for combined proteome 
-and metabolome analysis*, Frontiers Molecular Biosciences, 2022;
+and metabolome analysis*. Frontiers Molecular Biosciences, 2022;
 [https://doi.org/10.3389/fmolb.2022.961448](https://doi.org/10.3389/fmolb.2022.961448)
 
 Naake T., Scossa F., Perez de Souza L., Borghi M., Brotman Y., Mori T., 
 Nakabayashi R., Tohge T., Fernie A.R. *Genome-wide association studies of seed 
 metabolites identify loci controlling specialized metabolites in Arabidopsis 
-thaliana*, bioRvix, 2022;
+thaliana*. bioRvix, 2022;
 [https://doi.org/10.1101/2022.09.23.509130](https://doi.org/10.1101/2022.09.23.509130)
 
 Perez de Souza L., Naake T., Fernie A.R.
-*Computational approaches that aid annotation in metabolomics*, 
+*Computational approaches that aid annotation in metabolomics*.
 Trends in Plant Science, 2022;
 [https://doi.org/10.1016/j.tplants.2022.06.010](https://doi.org/10.1016/j.tplants.2022.06.010)
 
 Amara A., Frainay C., Jourdan F., Naake T., Neumann S., Novoa-del-Toro E.M., 
 Salek R., Salzer L., Scharfenberg S.,  Witting M.A.
-*Networks and graphs discovery in metabolomics data analysis and interpretation*,
+*Networks and graphs discovery in metabolomics data analysis and interpretation*.
 Frontiers in Molecular Biosciences, 2022.
 [https://doi.org/10.3389/fmolb.2022.841373](https://doi.org/10.3389/fmolb.2022.841373)
 
 Naake T., Huber W.
-*MatrixQCvis: shiny-based interactive data quality exploration for omics data*,
+*MatrixQCvis: shiny-based interactive data quality exploration for omics data*.
 Bioinformatics, 2022;
 [https://doi.org/10.1093/bioinformatics/btab748](https://doi.org/10.1093/bioinformatics/btab748)
 
 Zhu F., Alseekh S., Koper K., Tong H., Nikoloski Z., Naake T., Liu H., Yan J., 
 Brotman Y., Wen W., Maeda H., Cheng Y., Fernie A.R.
 *Genome-wide association of the metabolic shifts underpinning dark-induced 
-senescence in Arabidopsis*, 
+senescence in Arabidopsis*.
 The Plant Cell, 2022;
 [https://doi.org/10.1093/plcell/koab251](https://doi.org/10.1093/plcell/koab251)
 
 Aneklaphakij C., Saigo T., Watanabe M., Naake T., Fernie A.R., Bunsupa S., Satitpatipan V., Tohge T.
-*Diversity of chemical structures and biosynthesis of polyphenols in nut bearing species*,
+*Diversity of chemical structures and biosynthesis of polyphenols in nut bearing species*.
 Frontiers in Plant Science, 2021;
 [https://doi.org/10.3389/fpls.2021.642581](https://doi.org/10.3389/fpls.2021.642581)
 
 Naake T., Maeda H.A., Proost S., Tohge T., Fernie A.R.
-*Kingdom-wide analysis of the evolution of the plant type III polyketide synthase superfamily*,
+*Kingdom-wide analysis of the evolution of the plant type III polyketide synthase superfamily*.
 Plant Physiology, 2020;
 [https://doi.org/10.1093/plphys/kiaa086](https://doi.org/10.1093/plphys/kiaa086).
 
