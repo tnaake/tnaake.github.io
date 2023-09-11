@@ -22,7 +22,7 @@ header:
 Naake T., Rainer J., Huber W. 
 *MsQuality - an interoperable open-source package for the calculation of 
 standardized quality metrics of mass spectrometry data*. bioRxiv, 2023;
-preprint: [https://doi.org/10.1101/2023.05.12.540477](https://doi.org/10.1101/2023.05.12.540477).
+[preprint](https://doi.org/10.1101/2023.05.12.540477).
 
 Gegner H.M., Naake T., Dugourd A., Mueller T., Czernilofsky F., Kliewer G., 
 Jaeger E., Helm B., Kunze-Rohrbach N., Klingmueller U., Hopf C., 
@@ -31,7 +31,7 @@ Poschet G., Krijgsveld J.
 *Pre-analytical processing of plasma and serum samples for combined proteome 
 and metabolome analysis*. Frontiers Molecular Biosciences, 2022;
 [https://doi.org/10.3389/fmolb.2022.961448](https://doi.org/10.3389/fmolb.2022.961448);
-preprint: [https://doi.org/10.1101/2022.04.26.489520](https://doi.org/10.1101/2022.04.26.489520).
+[preprint](https://doi.org/10.1101/2022.04.26.489520).
 
 Naake T., Scossa F., Perez de Souza L., Borghi M., Brotman Y., Mori T., 
 Nakabayashi R., Tohge T., Fernie A.R. *Genome-wide association studies of seed 
@@ -54,7 +54,7 @@ Naake T., Huber W.
 *MatrixQCvis: shiny-based interactive data quality exploration for omics data*.
 Bioinformatics, 2022;
 [https://doi.org/10.1093/bioinformatics/btab748](https://doi.org/10.1093/bioinformatics/btab748);
-preprint: [https://doi.org/10.1101/2021.06.17.448827](https://doi.org/10.1101/2021.06.17.448827).
+[preprint](https://doi.org/10.1101/2021.06.17.448827).
 
 Zhu F., Alseekh S., Koper K., Tong H., Nikoloski Z., Naake T., Liu H., Yan J., 
 Brotman Y., Wen W., Maeda H., Cheng Y., Fernie A.R.
@@ -72,7 +72,7 @@ Naake T., Maeda H.A., Proost S., Tohge T., Fernie A.R.
 *Kingdom-wide analysis of the evolution of the plant type III polyketide synthase superfamily*.
 Plant Physiology, 2020;
 [https://doi.org/10.1093/plphys/kiaa086](https://doi.org/10.1093/plphys/kiaa086);
-preprint: [https://doi.org/10.1101/2020.04.28.059733](https://doi.org/10.1101/2020.04.28.059733).
+[preprint](https://doi.org/10.1101/2020.04.28.059733).
 
 Yan S., Liu Q., Naake T., Huang W., Chen M., Kong Q., Zhang S., Li W., Li X., Liu Q., Yang J., Fernie A.R., Liu B.
 *OsGF14b modulates defense signaling pathways in rice panicle blast response*. The Crop Journal, 2020;
