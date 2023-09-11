@@ -136,7 +136,7 @@ author:
 footer:
   links:
     - label: "X"
-      icon: "fa fa-fw fa-x-twitter"
+      icon: "fab fa-fw fa-x-twitter"
       url: "https://twitter.com/thomasnaake"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
