@@ -119,7 +119,7 @@ author:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  # url: "https://your-website.com"
-    - label: "X"
+    - label: "Twitter/X"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/thomasnaake"
     - label: "LinkedIn"
