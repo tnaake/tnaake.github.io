@@ -107,7 +107,7 @@ Analytical Chemistry 91, 2019;
 
 Gallage N., Jørgensen K., Janfelt C., Nielsen A., Naake, T., Dalsten L., 
 Grisoni M., Møller B.L. *The Intracellular Localization of the Vanillin Biosynthetic Machinery 
-in Pods of __Vanilla planifolia__*. Plant Cell Physiology 59, 2018; 
+in Pods of Vanilla planifolia*. Plant Cell Physiology 59, 2018; 
 [https://doi.org/10.1093/pcp/pcx185](https://doi.org/10.1093/pcp/pcx185).
 
 Perez de Souza L., Naake T., Tohge T., Fernie A.R. *From chromatogram to 
