@@ -149,11 +149,19 @@ Data Analysis for Metabolomics, 2020;
 
 ## Recent talks 
 
-Neumann S., Burgess K., da Silva R.R., Schirra J., Naake T. 
+Neumann S., Burgess K., da Silva R.R., Schirra H., Naake T..
 Hitchhikers’ guide to networks in metabolomics. 20/06/2022, Valencia, Metabolomics 2022.
 
 Naake T. MsQuality: quality metrics for mass spectrometry data. 
 23/11/2021, Wittenberg, de.NBI CompMS metaRbolomics.
+
+Hoffmann N., Gatto L., Gibb S., Rainer J., Stanstrup J., Broeckling C.D., 
+Helmus R., Mathe E., Naake T., Nicolotti L., Peters K., Salek R., Schulze T., 
+Schymanski E.L., Stravs M.A., Thevenot E., Treutler H., Weber R., 
+Willighagen E., Witting M., Neumann S (presented by Hoffmann N.).
+The metaRbolomics Toolbox in Bioconductor and beyond.
+13/07/2020--16/07/2020, virtual, 
+ISMB 2020 28th Conference on Intelligent Systems for Molecular Biology.
 
 Naake T. MetCirc: Navigating mass spectral similarity in high-resolution MS/MS metabolomics
 data - Recent updates. 25/07/2019, Brixen, CSAMA: Statistical Data Analysis
