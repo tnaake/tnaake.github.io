@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-modified: 2022-07-20
+modified: 2023-10-02
 comments: false
 author_profile: true
 header:
@@ -19,6 +19,13 @@ header:
 
 ## Research articles
 
+Naake T., Zhu F., Alseekh S., Scossa F., Perez de Souza L., Borghi M., Brotman Y., Mori T., 
+Nakabayashi R., Tohge T., Fernie A.R. *Genome-wide association studies of seed 
+metabolites identify loci controlling specialized seed metabolites in Arabidopsis*. 
+Plant Physiology, 2023;
+[https://doi.org/10.1093/plphys/kiad511](https://doi.org/10.1093/plphys/kiad511);
+[preprint](https://doi.org/10.1101/2022.09.23.509130).
+
 Naake T., Rainer J., Huber W. 
 *MsQuality - an interoperable open-source package for the calculation of 
 standardized quality metrics of mass spectrometry data*. bioRxiv, 2023;
@@ -32,12 +39,6 @@ Poschet G., Krijgsveld J.
 and metabolome analysis*. Frontiers Molecular Biosciences, 2022;
 [https://doi.org/10.3389/fmolb.2022.961448](https://doi.org/10.3389/fmolb.2022.961448);
 [preprint](https://doi.org/10.1101/2022.04.26.489520).
-
-Naake T., Scossa F., Perez de Souza L., Borghi M., Brotman Y., Mori T., 
-Nakabayashi R., Tohge T., Fernie A.R. *Genome-wide association studies of seed 
-metabolites identify loci controlling specialized metabolites in Arabidopsis 
-thaliana*. bioRvix, 2022;
-[https://doi.org/10.1101/2022.09.23.509130](https://doi.org/10.1101/2022.09.23.509130).
 
 Perez de Souza L., Naake T., Fernie A.R.
 *Computational approaches that aid annotation in metabolomics*.
@@ -59,8 +60,7 @@ Bioinformatics, 2022;
 Zhu F., Alseekh S., Koper K., Tong H., Nikoloski Z., Naake T., Liu H., Yan J., 
 Brotman Y., Wen W., Maeda H., Cheng Y., Fernie A.R.
 *Genome-wide association of the metabolic shifts underpinning dark-induced 
-senescence in Arabidopsis*.
-The Plant Cell, 2022;
+senescence in Arabidopsis*. The Plant Cell, 2022;
 [https://doi.org/10.1093/plcell/koab251](https://doi.org/10.1093/plcell/koab251).
 
 Aneklaphakij C., Saigo T., Watanabe M., Naake T., Fernie A.R., Bunsupa S., Satitpatipan V., Tohge T.
@@ -106,8 +106,8 @@ Analytical Chemistry 91, 2019;
 [https://doi.org/10.1021/acs.analchem.8b04096](https://doi.org/10.1021/acs.analchem.8b04096).
 
 Gallage N., Jørgensen K., Janfelt C., Nielsen A., Naake, T., Dalsten L., 
-Grisoni M., Møller B.L. *The vanillin biosynthetic machinery in the pods of 
-Vanilla planifolia is localized in chloroplasts and phenyloplasts*. Plant Cell Physiology 59, 2018; 
+Grisoni M., Møller B.L. *The Intracellular Localization of the Vanillin Biosynthetic Machinery 
+in Pods of __Vanilla planifolia__*. Plant Cell Physiology 59, 2018; 
 [https://doi.org/10.1093/pcp/pcx185](https://doi.org/10.1093/pcp/pcx185).
 
 Perez de Souza L., Naake T., Tohge T., Fernie A.R. *From chromatogram to 
@@ -194,4 +194,3 @@ of Arabidopsis thaliana to detect biosynthetic and regulatory genes using GWAS.
 Gatto L., Breckels L.M., Naake T., Wieczorek S., Burger T., Lilley K.S. A state-of-the-art
 machine learning pipeline for the analysis of spatial proteomics data. 05–08/10/2014,
 Madrid, HUPO meeting.
-
