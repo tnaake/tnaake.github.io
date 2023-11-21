@@ -19,17 +19,25 @@ header:
 
 ## Research articles
 
+Gegner H.M., Naake T., Aljakouch K., Dugourd A., Kliewer G., Müller T., 
+Schilling D., Schneider M.A., Kunze-Rohrbach N., Grünewald T.G.P., 
+Hell R., Saez-Rodriguez J., Huber W., Poschet G., Krijgsveld J.
+*A single-sample workflow for joint metabolomic and proteomic analysis of clinical specimens*.
+bioRxiv, 2023;
+[preprint](https://doi.org/10.1101/2023.11.07.561857).
+
+Naake T., Rainer J., Huber W. 
+*MsQuality - an interoperable open-source package for the calculation of 
+standardized quality metrics of mass spectrometry data*. Bioinformatics, 2023;
+[https://doi.org/10.1093/bioinformatics/btad618](https://doi.org/10.1093/bioinformatics/btad618)
+[preprint](https://doi.org/10.1101/2023.05.12.540477).
+
 Naake T., Zhu F., Alseekh S., Scossa F., Perez de Souza L., Borghi M., Brotman Y., Mori T., 
 Nakabayashi R., Tohge T., Fernie A.R. *Genome-wide association studies of seed 
 metabolites identify loci controlling specialized seed metabolites in Arabidopsis*. 
 Plant Physiology, 2023;
 [https://doi.org/10.1093/plphys/kiad511](https://doi.org/10.1093/plphys/kiad511);
 [preprint](https://doi.org/10.1101/2022.09.23.509130).
-
-Naake T., Rainer J., Huber W. 
-*MsQuality - an interoperable open-source package for the calculation of 
-standardized quality metrics of mass spectrometry data*. bioRxiv, 2023;
-[preprint](https://doi.org/10.1101/2023.05.12.540477).
 
 Gegner H.M., Naake T., Dugourd A., Mueller T., Czernilofsky F., Kliewer G., 
 Jaeger E., Helm B., Kunze-Rohrbach N., Klingmueller U., Hopf C., 
