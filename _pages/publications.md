@@ -29,7 +29,7 @@ bioRxiv, 2023;
 Naake T., Rainer J., Huber W. 
 *MsQuality - an interoperable open-source package for the calculation of 
 standardized quality metrics of mass spectrometry data*. Bioinformatics, 2023;
-[https://doi.org/10.1093/bioinformatics/btad618](https://doi.org/10.1093/bioinformatics/btad618)
+[https://doi.org/10.1093/bioinformatics/btad618](https://doi.org/10.1093/bioinformatics/btad618);
 [preprint](https://doi.org/10.1101/2023.05.12.540477).
 
 Naake T., Zhu F., Alseekh S., Scossa F., Perez de Souza L., Borghi M., Brotman Y., Mori T., 
@@ -39,9 +39,9 @@ Plant Physiology, 2023;
 [https://doi.org/10.1093/plphys/kiad511](https://doi.org/10.1093/plphys/kiad511);
 [preprint](https://doi.org/10.1101/2022.09.23.509130).
 
-Gegner H.M., Naake T., Dugourd A., Mueller T., Czernilofsky F., Kliewer G., 
-Jaeger E., Helm B., Kunze-Rohrbach N., Klingmueller U., Hopf C., 
-Mueller-Tidow C., Dietrich S., Saez-Rodriguez J., Huber W., Hell R., 
+Gegner H.M., Naake T., Dugourd A., Müller T., Czernilofsky F., Kliewer G., 
+Jaeger E., Helm B., Kunze-Rohrbach N., Klingmüller U., Hopf C., 
+Müller-Tidow C., Dietrich S., Saez-Rodriguez J., Huber W., Hell R., 
 Poschet G., Krijgsveld J.
 *Pre-analytical processing of plasma and serum samples for combined proteome 
 and metabolome analysis*. Frontiers Molecular Biosciences, 2022;
