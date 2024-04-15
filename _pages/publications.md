@@ -19,6 +19,17 @@ header:
 
 ## Research articles
 
+
+
+Roessner P., Lander I., Chapaprieta V., Jayabalan R., Briesch H., 
+Massoni-Badosa R., Boskovic P., Beckendorff J., Roider T., Arseni L., Coelho M.,
+Chakraborty S., Vaca A., Sivina M., Muckenhuber M., Rodriguez-Rodriguez S., 
+Bonato A., Herbst S., Zapatka M., Sun C., Kretzmer H., Naake T., Bruch P.-M.,Czernilofsky F., ten Hacken E., Schneider M., Helm D., Yosifov D., Kauer J.,Danilov A.V., Bewarder M., Heyne K., Schneider C., Stilgenbauer S., Wiestner A., 
+Mallm J.-P., Burger J.A., Efremov D.G., Lichter P., Dietrich S., Martin-Subero J.I., 
+Rippe K., Seiffert M.
+*T-bet suppresses proliferation of malignant B cells in chronic lymphocytic leukemia*.
+accepted.
+
 Gegner H.M., Naake T., Aljakouch K., Dugourd A., Kliewer G., Müller T., 
 Schilling D., Schneider M.A., Kunze-Rohrbach N., Grünewald T.G.P., 
 Hell R., Saez-Rodriguez J., Huber W., Poschet G., Krijgsveld J.
