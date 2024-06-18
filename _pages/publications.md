@@ -196,6 +196,10 @@ CompMS metaRbolomics.
 
 ## Posters 
 
+Rainer J. Louail P., Vicini A., Gine R., Badia J.M., Stravs M., Garcia-Aloy M., Huber C., Salzer L., Stanstrup J., Shahaf N., Panse C., Naake T., Kumler W., Vangeenderhuysen P., Brunius C., Hecht H., Neumann S., Witting M., Gibb S., Gatto L.
+An Open Software Development-based Ecosystem of R Packages for Metabolomics Data Analysis.
+16-20/06/2022, Osaka, Metabolomics 2024.
+
 Vicini A., Gine R., Stravs M., Badia J.M., Huber C., Salzer L., Stanstrup J., Shahaf N., 
 Naake T., Hecht H., Neumann S., Witting M., Gibb S., Gatto L., Rainer J. 
 An Open Software Development-based Ecosystem of R Packages for Metabolomics Data Analysis.
