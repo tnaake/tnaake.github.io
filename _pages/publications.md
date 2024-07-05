@@ -19,6 +19,14 @@ header:
 
 ## Research articles
 
+Gegner H.M., Naake T., Aljakouch K., Dugourd A., Kliewer G., Müller T., 
+Schilling D., Schneider M.A., Kunze-Rohrbach N., Grünewald T.G.P., 
+Hell R., Saez-Rodriguez J., Huber W., Poschet G., Krijgsveld J.
+*A single-sample workflow for joint metabolomic and proteomic analysis of clinical specimens*.
+Clinical Proteomics, 2024;
+[https://doi.org/10.1186/s12014-024-09501-9](https://doi.org/10.1186/s12014-024-09501-9);
+[preprint](https://doi.org/10.1101/2023.11.07.561857).
+
 Roessner P.M., Seufert I., Chapaprieta V., Jayabalan R., Briesch H., 
 Massoni-Badosa R., Boskovic P., Beckendorff J., Roider T., Arseni L., Coelho M.,
 Chakraborty S., Vaca A., Sivina M., Muckenhuber M., Rodriguez-Rodriguez S., 
@@ -28,13 +36,6 @@ Rippe K., Seiffert M.
 *T-bet suppresses proliferation of malignant B cells in chronic lymphocytic leukemia*.
 Blood, 2024; 
 [https://doi.org/10.1182/blood.2023021990](https://doi.org/10.1182/blood.2023021990).
-
-Gegner H.M., Naake T., Aljakouch K., Dugourd A., Kliewer G., Müller T., 
-Schilling D., Schneider M.A., Kunze-Rohrbach N., Grünewald T.G.P., 
-Hell R., Saez-Rodriguez J., Huber W., Poschet G., Krijgsveld J.
-*A single-sample workflow for joint metabolomic and proteomic analysis of clinical specimens*.
-bioRxiv, 2023;
-[preprint](https://doi.org/10.1101/2023.11.07.561857).
 
 Naake T., Rainer J., Huber W. 
 *MsQuality - an interoperable open-source package for the calculation of 
