@@ -19,6 +19,10 @@ header:
 
 ## Research articles
 
+Naake T., D'Auria J.C., Fernie A.R., Scossa F.
+*Phylogenomic and synteny analysis of BAHD and SCP/SCPL gene familiesreveal their evolutionary histories in plant specialized metabolism*. 
+Philosophical Transactions B, 2024[https://doi.org/10.1098/rstb.2023.0349](https://doi.org/10.1098/rstb.2023.0349).
+
 Gegner H.M., Naake T., Aljakouch K., Dugourd A., Kliewer G., Müller T., 
 Schilling D., Schneider M.A., Kunze-Rohrbach N., Grünewald T.G.P., 
 Hell R., Saez-Rodriguez J., Huber W., Poschet G., Krijgsveld J.
