@@ -172,6 +172,8 @@ Data Analysis for Metabolomics, 2020;
 
 ## Recent talks 
 
+Naake T., Johannes R., Wolfgang H. MsQuality - an interoperable open-source package for the calculation of standardized quality metrics of mass spectrometry data. 27/11/2023 - 01/12/2023, Novo Nordisk Foundation Science Cluster, Protein Signaling - in space and time. (selected talk)
+
 Neumann S., Burgess K., da Silva R.R., Schirra H., Naake T..
 Hitchhikers’ guide to networks in metabolomics. 20/06/2022, Valencia, Metabolomics 2022.
 
@@ -192,7 +194,7 @@ for Genome-Scale Biology.
 
 Naake T., Tohge T., Fernie A.R. Plant kingdom-wide analysis to study the evolution of the
 type III polyketide synthase superfamily. 24/06/2019, Pamplona,
-1st PhD meeting in Plant Science.
+1st PhD meeting in Plant Science (invited talk).
 
 Naake T. MetNet: Metabolite Network Prediction from High-Resolution Mass Spectrometry
 Data in R Aiding Metabolite Annotation. 02/04/2019, Wittenberg, de.NBI
