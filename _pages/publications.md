@@ -169,13 +169,12 @@ Data Analysis for Metabolomics, 2020;
 [https://doi.org/10.1007/978-1-0716-0239-3](https://doi.org/10.1007/978-1-0716-0239-3).
 
 
-
 ## Recent talks 
 
-Naake T., Johannes R., Wolfgang H. MsQuality - an interoperable open-source package for the calculation of standardized quality metrics of mass spectrometry data. 27/11/2023 - 01/12/2023, Novo Nordisk Foundation Science Cluster, Protein Signaling - in space and time. (selected talk)
+Naake T., Johannes R., Wolfgang H. MsQuality - an interoperable open-source package for the calculation of standardized quality metrics of mass spectrometry data. 27/11/2023 - 01/12/2023, Novo Nordisk Foundation Science Cluster, Protein Signaling - in space and time (selected talk).
 
 Neumann S., Burgess K., da Silva R.R., Schirra H., Naake T..
-Hitchhikers’ guide to networks in metabolomics. 20/06/2022, Valencia, Metabolomics 2022.
+Hitchhikers’ guide to networks in metabolomics. 20/06/2022, Valencia, Metabolomics 2022 (selected talk).
 
 Naake T. MsQuality: quality metrics for mass spectrometry data. 
 23/11/2021, Wittenberg, de.NBI CompMS metaRbolomics.
@@ -204,7 +203,7 @@ CompMS metaRbolomics.
 ## Posters 
 
 Aljakouch K., Liao Q.-W., Schneider M., Helm B., Frey D., Schmidt C., Naake T., Zhou Q., Poschet G., Hell R., Winter H., Saez-Rodriguez J., Huber W., Hopf C., Klingmüller U., Krijgsveld U., Lu J.
-Identifying mass spectrometry-based biomarkers for predicting tumor recurrence in lung cancer 
+Identifying mass spectrometry-based biomarkers for predicting tumor recurrence in lung cancer.
 20-24/10/2024, Dresden, HUPO 2024.
 
 Rainer J., Louail P., Vicini A., Gine R., Badia J.M., Stravs M., Garcia-Aloy M., Huber C., Salzer L., Stanstrup J., Shahaf N., Panse C., Naake T., Kumler W., Vangeenderhuysen P., Brunius C., Hecht H., Neumann S., Witting M., Gibb S., Gatto L.
