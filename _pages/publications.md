@@ -171,7 +171,7 @@ Data Analysis for Metabolomics, 2020;
 
 ## Recent talks 
 
-Naake T., Johannes R., Wolfgang H. MsQuality - an interoperable open-source package for the calculation of standardized quality metrics of mass spectrometry data. 27/11/2023 - 01/12/2023, Novo Nordisk Foundation Science Cluster, Protein Signaling - in space and time (selected talk).
+Naake T., Johannes R., Wolfgang H. MsQuality - an interoperable open-source package for the calculation of standardized quality metrics of mass spectrometry data. 27/11/2023 - 01/12/2023, Novo Nordisk Foundation Science Cluster Hillerød, Protein Signaling - in space and time (selected talk).
 
 Neumann S., Burgess K., da Silva R.R., Schirra H., Naake T..
 Hitchhikers’ guide to networks in metabolomics. 20/06/2022, Valencia, Metabolomics 2022 (selected talk).
@@ -201,6 +201,10 @@ CompMS metaRbolomics.
 
 
 ## Posters 
+
+Ali S.A., Naake T., Henneman P. Aljakouch K. Huber W., Krijgsveld J.
+Multi-omics analysis of RAS mutant and isoform cell lines delineates RAS-dependent signalling networks. 
+18-22/11/2024, Novo Nordisk Foundation Science Cluster Hillerød, Metabolism in Action - Time, Space and Treatment.
 
 Aljakouch K., Liao Q.-W., Schneider M., Helm B., Frey D., Schmidt C., Naake T., Zhou Q., Poschet G., Hell R., Winter H., Saez-Rodriguez J., Huber W., Hopf C., Klingmüller U., Krijgsveld U., Lu J.
 Identifying mass spectrometry-based biomarkers for predicting tumor recurrence in lung cancer.
