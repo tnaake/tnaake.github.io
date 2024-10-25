@@ -171,7 +171,7 @@ Data Analysis for Metabolomics, 2020;
 
 ## Recent talks 
 
-Naake T., Johannes R., Wolfgang H. MsQuality - an interoperable open-source package for the calculation of standardized quality metrics of mass spectrometry data. 27/11/2023 - 01/12/2023, Novo Nordisk Foundation Science Cluster Hillerød, Protein Signaling - in space and time (selected talk).
+Naake T., Rainer J., Huber W. MsQuality - an interoperable open-source package for the calculation of standardized quality metrics of mass spectrometry data. 27/11/2023 - 01/12/2023, Novo Nordisk Foundation Science Cluster Hillerød, Protein Signaling - in space and time (selected talk).
 
 Neumann S., Burgess K., da Silva R.R., Schirra H., Naake T..
 Hitchhikers’ guide to networks in metabolomics. 20/06/2022, Valencia, Metabolomics 2022 (selected talk).
