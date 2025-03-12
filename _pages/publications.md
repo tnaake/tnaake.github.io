@@ -206,13 +206,23 @@ Ali S.A., Naake T., Henneman P. Aljakouch K. Huber W., Krijgsveld J.
 Multi-omics analysis of RAS mutant and isoform cell lines delineates RAS-dependent signalling networks. 
 18-22/11/2024, Novo Nordisk Foundation Science Cluster Hillerød, Metabolism in Action - Time, Space and Treatment.
 
-Aljakouch K., Liao Q.-W., Schneider M., Helm B., Frey D., Schmidt C., Naake T., Zhou Q., Poschet G., Hell R., Winter H., Saez-Rodriguez J., Huber W., Hopf C., Klingmüller U., Krijgsveld U., Lu J.
+Aljakouch K., Liao Q.-W., Schneider M., Helm B., Frey D., Schmidt C., Naake T., Zhou Q., 
+Poschet G., Hell R., Winter H., Saez-Rodriguez J., Huber W., Hopf C., Klingmüller U., 
+Krijgsveld U., Lu J.
 Identifying mass spectrometry-based biomarkers for predicting tumor recurrence in lung cancer.
 20-24/10/2024, Dresden, HUPO 2024.
 
-Rainer J., Louail P., Vicini A., Gine R., Badia J.M., Stravs M., Garcia-Aloy M., Huber C., Salzer L., Stanstrup J., Shahaf N., Panse C., Naake T., Kumler W., Vangeenderhuysen P., Brunius C., Hecht H., Neumann S., Witting M., Gibb S., Gatto L.
+Rainer J., Louail P., Vicini A., Gine R., Badia J.M., Stravs M., Garcia-Aloy M., Huber C., 
+Salzer L., Stanstrup J., Shahaf N., Panse C., Naake T., Kumler W., Vangeenderhuysen P., 
+Brunius C., Hecht H., Neumann S., Witting M., Gibb S., Gatto L.
 An Open Software Development-based Ecosystem of R Packages for Metabolomics Data Analysis.
 16-20/06/2024, Osaka, Metabolomics 2024.
+
+Berz L., Czernilofsky F., Angeli-Terzidou A., Roider T., Aljakouch K., Naake T., 
+Poschet G., Kliewer G., Chapuy B., Mueller-Tidow C., Hell R., Huber W., 
+Krijgsveld J., Lu J.,  Dietrich S.
+Inhibition of fatty acid metabolism overcomes resistance to chemotherapy in DLBCL.
+13-16/10/2023, Hamburg, Jahrestagung der Deutschen, Österreichischen und Schweizerischen Gesellschaften für Hämatologie und Medizinische Onkologie.
 
 Vicini A., Gine R., Stravs M., Badia J.M., Huber C., Salzer L., Stanstrup J., Shahaf N., 
 Naake T., Hecht H., Neumann S., Witting M., Gibb S., Gatto L., Rainer J. 
