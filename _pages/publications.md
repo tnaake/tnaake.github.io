@@ -19,6 +19,22 @@ header:
 
 ## Research articles
 
+Schmidt C., Naake T.
+*Multi-omics guided pathway and network analysis of clinical metabolomics and proteomics data*.
+bioRxiv, 2025;
+[preprint](https://doi.org/10.1101/2025.06.26.661095).
+
+De Graeve M., Bittremieux W., Naake T., Huber C., Anagho-Mattanovich M., Hoffmann N., Marchal P., Chrone V., Amandine P., Louail J., Hecht H., Witting M., Rainer J.
+*SpectriPy: Enhancing Cross-Language Mass Spectrometry Data Analysis with R and Python*.
+The Journal of Open Source Software, 2025;
+[https://doi.org/10.21105/joss.08070](https://doi.org/10.21105/joss.08070)
+
+Barrero-Rodríguez R., Rodríguez J.M., Naake T., Huber W., Juárez-Fernández M., Ramiro A.R., Vázquez J., Mastrangelo A., Ferrarini A.
+*TurbOmics: a web-based platform for the analysis of metabolomics data using a 
+multi-omics integrative approach*.
+bioRxiv, 2025;
+[preprint](https://doi.org/10.1101/2025.05.09.653072).
+
 Naake T., D'Auria J.C., Fernie A.R., Scossa F.
 *Phylogenomic and synteny analysis of BAHD and SCP/SCPL gene familiesreveal their evolutionary histories in plant specialized metabolism*. 
 Philosophical Transactions B, 2024;[https://doi.org/10.1098/rstb.2023.0349](https://doi.org/10.1098/rstb.2023.0349).
