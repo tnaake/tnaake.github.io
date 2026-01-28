@@ -12,6 +12,6 @@ header:
 
 # CV
 
-See my [LinkedIn](https://www.linkedin.com/in/dr-thomas-naake-2b31158a/) page for a 
+See my [LinkedIn](https://de.linkedin.com/in/prof-dr-thomas-naake-2b31158a/) page for a 
 current version of my CV. 
 
