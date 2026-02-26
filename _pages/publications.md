@@ -36,8 +36,10 @@ bioRxiv, 2025;
 [preprint](https://doi.org/10.1101/2025.05.09.653072).
 
 Naake T., D'Auria J.C., Fernie A.R., Scossa F.
-*Phylogenomic and synteny analysis of BAHD and SCP/SCPL gene familiesreveal their evolutionary histories in plant specialized metabolism*. 
-Philosophical Transactions B, 2024;[https://doi.org/10.1098/rstb.2023.0349](https://doi.org/10.1098/rstb.2023.0349).
+*Phylogenomic and synteny analysis of BAHD and SCP/SCPL gene families
+reveal their evolutionary histories in plant specialized metabolism*. 
+Philosophical Transactions B, 2024;
+[https://doi.org/10.1098/rstb.2023.0349](https://doi.org/10.1098/rstb.2023.0349).
 
 Gegner H.M., Naake T., Aljakouch K., Dugourd A., Kliewer G., Müller T., 
 Schilling D., Schneider M.A., Kunze-Rohrbach N., Grünewald T.G.P., 
@@ -50,7 +52,9 @@ Clinical Proteomics, 2024;
 Roessner P.M., Seufert I., Chapaprieta V., Jayabalan R., Briesch H., 
 Massoni-Badosa R., Boskovic P., Beckendorff J., Roider T., Arseni L., Coelho M.,
 Chakraborty S., Vaca A., Sivina M., Muckenhuber M., Rodriguez-Rodriguez S., 
-Bonato A., Herbst S.A., Zapatka M., Sun C., Kretzmer H., Naake T., Bruch P.-M.,Czernilofsky F., ten Hacken E., Schneider M., Helm D., Yosifov D.Y., Kauer J.,Danilov A.V., Bewarder M., Heyne K., Schneider C., Stilgenbauer S., Wiestner A., 
+Bonato A., Herbst S.A., Zapatka M., Sun C., Kretzmer H., Naake T., Bruch P.-M.,
+Czernilofsky F., ten Hacken E., Schneider M., Helm D., Yosifov D.Y., Kauer J.,
+Danilov A.V., Bewarder M., Heyne K., Schneider C., Stilgenbauer S., Wiestner A., 
 Mallm J.-P., Burger J.A., Efremov D.G., Lichter P., Dietrich S., Martin-Subero J.I., 
 Rippe K., Seiffert M.
 *T-bet suppresses proliferation of malignant B cells in chronic lymphocytic leukemia*.
@@ -186,6 +190,10 @@ Data Analysis for Metabolomics, 2020;
 
 
 ## Recent talks 
+
+Naake T. Bioinformatic tools to improve the reliability of mass spectrometry measurements. 24/11/2025, Hannover, 2nd TRAIN OMICS Days Lower Saxony (selected talk).
+
+Naake T. Computational approaches to assess the quality of metabolomics data. 09/10/2025, Freising, Munich Metabolomics Meeting (invited workshop talk).
 
 Naake T., Rainer J., Huber W. MsQuality - an interoperable open-source package for the calculation of standardized quality metrics of mass spectrometry data. 27/11/2023 - 01/12/2023, Novo Nordisk Foundation Science Cluster Hillerød, Protein Signaling - in space and time (selected talk).
 
