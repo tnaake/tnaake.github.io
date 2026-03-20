@@ -19,6 +19,11 @@ header:
 
 ## Research articles
 
+Scossa F., Bulut M., Naake T., D'Auria J.C., Fernie A.R.
+*Convergence and parallelism in the evolution of plant metabolism*.
+Journal of Integrative Plant Biology, 2026;
+[http://doi.org/10.1111/jipb.70236](http://doi.org/10.1111/jipb.70236).
+
 Schmidt C., Naake T.
 *Multi-omics guided pathway and network analysis of clinical metabolomics and proteomics data*.
 bioRxiv, 2025;
